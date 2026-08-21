@@ -1547,3 +1547,84 @@ plt.savefig(
 )
 
 plt.show()
+
+# ============================================================
+# 40. 2D visualization of all fine clusters (threshold = 0.003)
+# ============================================================
+
+from sklearn.decomposition import PCA
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
+
+# Reduce the normalized embeddings to 2D
+pca = PCA(n_components=2, random_state=42)
+X_2d = pca.fit_transform(X_norm)
+
+# Create plotting dataframe
+plot_df = pd.DataFrame({
+    "dim1": X_2d[:, 0],
+    "dim2": X_2d[:, 1],
+    "cluster_fine": test_df["cluster_fine"].values,
+    "label": test_df["current_finish_at_least_recent_average"].astype(int).values
+})
+
+# Get cluster sizes
+cluster_sizes = (
+    plot_df["cluster_fine"]
+    .value_counts()
+    .sort_values(ascending=False)
+)
+
+print("\nCluster sizes at threshold 0.003:")
+print(cluster_sizes)
+
+# Create figure
+plt.figure(figsize=(11, 8))
+
+# Plot each cluster in a different color
+clusters_sorted = sorted(plot_df["cluster_fine"].unique())
+
+for cluster_id in clusters_sorted:
+    subset = plot_df[plot_df["cluster_fine"] == cluster_id]
+
+    plt.scatter(
+        subset["dim1"],
+        subset["dim2"],
+        s=55,
+        alpha=0.75,
+        label=f"Cluster {cluster_id} (n={len(subset)})"
+    )
+
+    # Mark cluster center
+    center_x = subset["dim1"].mean()
+    center_y = subset["dim2"].mean()
+
+    plt.text(
+        center_x,
+        center_y,
+        str(cluster_id),
+        fontsize=10,
+        ha="center",
+        va="center",
+        bbox=dict(boxstyle="round,pad=0.2", facecolor="white", alpha=0.8)
+    )
+
+plt.title("2D Projection of All Fine Clusters (threshold = 0.003)")
+plt.xlabel("PCA Dimension 1")
+plt.ylabel("PCA Dimension 2")
+plt.grid(alpha=0.3)
+plt.legend(
+    title="Fine Clusters",
+    bbox_to_anchor=(1.02, 1),
+    loc="upper left"
+)
+plt.tight_layout()
+
+plt.savefig(
+    os.path.join(RESULTS_DIR, "fine_clusters_2d_all_clusters.png"),
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.show()

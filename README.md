@@ -191,3 +191,7 @@ The characteristic phrase visualization is generated as:
 ```text
 clustering/clustering_results/characteristic_phrases_final.png
 ```
+The PCA visualization of the fine-grained clusters is generated as:
+
+```text
+clustering/clustering_results/fine_clusters_2d_all_clusters.png

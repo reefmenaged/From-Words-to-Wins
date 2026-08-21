@@ -195,3 +195,82 @@ The PCA visualization of the fine-grained clusters is generated as:
 
 ```text
 clustering/clustering_results/fine_clusters_2d_all_clusters.png
+```
+
+### 7. Interview Sentiment Analysis
+
+The sentiment analysis examines the language used in pre-tournament interviews and whether interview sentiment is associated with subsequent tournament performance.
+
+The sentiment analysis code is located under:
+
+```text
+sentiment-analysis/
+```
+
+The analysis uses the final project dataset:
+
+```text
+data/processed/player_tournament_interview_dataset.csv
+```
+
+Interview sentiment is computed using the pretrained `distilbert-base-uncased-finetuned-sst-2-english` sentiment classification model. Each answer is scored separately, and the interview-level sentiment score is calculated as the mean of the answer-level sentiment scores.
+
+A precomputed dataset containing the sentiment scores is included under:
+
+```text
+sentiment-analysis/interviews_with_sentiment.csv
+```
+
+Therefore, the full sentiment model does not need to be rerun in order to reproduce the sentiment-based analyses.
+
+The sentiment analysis script supports several analysis configurations and can be executed from the project root using the `--analysis` argument.
+
+To analyze the most frequent words across all pre-tournament interviews:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis words
+```
+
+To compare word usage between higher- and lower-ranked players:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis ranked-words
+```
+
+To run a sanity check of the sentiment model using one positive and one negative example:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis sanity-check
+```
+
+To run the sentiment model on all interviews:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis sentiment-model
+```
+
+This step may take considerable time depending on the available hardware. The computed scores are kept in memory and do not overwrite the provided precomputed sentiment dataset.
+
+To visualize the distribution of the precomputed interview sentiment scores:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis sentiment-distribution
+```
+
+To analyze the relationship between pre-tournament sentiment and subsequent tournament performance:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis sentiment-performance
+```
+
+To run all analysis steps that use the provided datasets without rerunning the full sentiment model:
+
+```bash
+python sentiment-analysis/tennis_interview_performance.py --analysis all
+```
+
+The sentiment-performance analysis compares interviews from tournaments in which the player's current performance was below the average of the previous tournaments with interviews from tournaments in which the player performed the same as or better than that recent average.
+
+The analysis showed no meaningful relationship between pre-tournament interview sentiment and subsequent tournament performance. The point-biserial correlation was close to zero (`r = 0.002`, `p = 0.960`), and the sentiment distributions of the two performance groups were nearly identical.
+
+

@@ -1,0 +1,86 @@
+# From Words to Wins: Analyzing Tennis Interviews and Tournament Success
+
+## Project Overview
+
+**From Words to Wins** examines whether pre-tournament interviews can provide information that helps understand and predict professional tennis players' subsequent tournament performance.
+
+The project combines structured ATP and WTA tournament data with pre-tournament interviews from 2020-2026. It includes three main components: player performance prediction, clustering of interview representations, and sentiment analysis of the interviews.
+
+## Setup
+
+Install the required Python packages from the project root:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Data Pipeline
+
+The data pipeline is implemented in the notebooks under `data_code/`.
+
+### 1. Tournament Data Preparation
+
+`01_tournament_data_preparation.ipynb`
+
+Downloads and preprocesses the ATP and WTA match and player data and transforms the match-level data into player-tournament observations.
+
+The generated match files are stored under:
+
+```text
+data/raw_matches/
+data/clean_matches/
+```
+
+The resulting player-tournament dataset is stored under:
+
+```text
+data/processed/
+```
+
+### 2. Interview Collection
+
+`02_interview_collection.ipynb`
+
+Collects and processes pre-tournament interviews from ASAP Sports and extracts their metadata and question-answer content.
+
+This notebook was developed for **Google Colab** and uses Google Drive for intermediate files.
+
+The collected interview files are already included under:
+
+```text
+data/interviews/
+```
+
+Therefore, this notebook does not need to be rerun in order to execute the remaining data pipeline.
+
+### 3. Dataset Construction
+
+`03_dataset_construction.ipynb`
+
+Combines the tournament and interview data, maps player and tournament names between the different data sources, constructs the required features, and adds information from each player's three preceding tournaments.
+
+The final dataset used by the subsequent project components is:
+
+```text
+data/processed/player_tournament_interview_dataset.csv
+```
+
+Each row represents one player participating in one tournament and combines information about the current player and tournament, the associated pre-tournament interview, and the player's three preceding tournaments.
+
+### 4. Data Analysis
+
+`04_data_analysis.ipynb`
+
+Explores the constructed dataset to identify potential biases in its composition.
+
+### Final Dataset
+
+The final dataset for the project is:
+
+```text
+data/processed/player_tournament_interview_dataset.csv
+```
+
+It contains **830 player-tournament observations** from **147 players** across **38 tournaments**.
+
+

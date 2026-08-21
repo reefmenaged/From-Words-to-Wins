@@ -16,3 +16,5 @@ matplotlib
 requests
 selenium
 scipy>=1.11
+nltk
+wordcloud

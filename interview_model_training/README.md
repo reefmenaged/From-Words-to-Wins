@@ -1,8 +1,7 @@
 # Unified interview-model training
 
 This directory contains only the code for the three training modes. Copy the whole
-`interview_model_training/` directory into the root of the Git repository. The data
-is **not** duplicated inside this directory.
+`interview_model_training/` directory into the root of the Git repository. 
 
 ## Dataset
 
@@ -60,4 +59,3 @@ For `features`, there is no interview-attention branch, so the final deliverable
 
 - `test_results.csv` — test metrics, including accuracy.
 
-There is intentionally no `requirements.txt` in this directory.

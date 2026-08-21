@@ -1596,20 +1596,6 @@ for cluster_id in clusters_sorted:
         label=f"Cluster {cluster_id} (n={len(subset)})"
     )
 
-    # Mark cluster center
-    center_x = subset["dim1"].mean()
-    center_y = subset["dim2"].mean()
-
-    plt.text(
-        center_x,
-        center_y,
-        str(cluster_id),
-        fontsize=10,
-        ha="center",
-        va="center",
-        bbox=dict(boxstyle="round,pad=0.2", facecolor="white", alpha=0.8)
-    )
-
 plt.title("2D Projection of All Fine Clusters (threshold = 0.003)")
 plt.xlabel("PCA Dimension 1")
 plt.ylabel("PCA Dimension 2")

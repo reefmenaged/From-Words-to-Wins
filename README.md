@@ -73,6 +73,16 @@ Each row represents one player participating in one tournament and combines info
 
 Explores the constructed dataset to identify potential biases in its composition.
 
+### Final Dataset
+
+The final dataset for the project is:
+
+```text
+data/processed/player_tournament_interview_dataset.csv
+```
+
+It contains **830 player-tournament observations** from **147 players** across **38 tournaments**.
+
 ### 5. Interview-Based Performance Prediction
 
 The interview-based performance prediction code is located under:
@@ -139,14 +149,6 @@ which contains the test-set interview embeddings after the attention layer and b
 
 The features-only configuration does not generate interview embeddings because interview text and the attention mechanism are not used in that experiment.
 
-### Final Dataset
 
-The final dataset for the project is:
-
-```text
-data/processed/player_tournament_interview_dataset.csv
-```
-
-It contains **830 player-tournament observations** from **147 players** across **38 tournaments**.
 
 

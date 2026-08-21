@@ -171,3 +171,23 @@ We apply **Agglomerative Hierarchical Clustering** to the normalized interview r
 The resulting clusters are analyzed using representative interviews, recurring two-word phrases, interview characteristics, player identity, and gender. Tournament-performance variables are not used to form the clusters and are examined only afterward to study possible associations between the discovered interview patterns and subsequent tournament performance.
 
 The analysis also includes visualizations of the hierarchical structure, characteristic phrase occurrence, relative tournament success, and a two-dimensional PCA projection of the fine-grained clusters.
+
+The clustering analysis can be executed from the project root using:
+
+```bash
+python clustering/clustering.py
+```
+
+The generated clustering results and visualizations are saved under:
+
+```text
+clustering/clustering_results/
+```
+
+Among the generated outputs are the dendrogram visualizations, the PCA projection of the fine-grained clusters, the relative tournament-success visualization, and the characteristic two-word phrase comparison.
+
+The characteristic phrase visualization is generated as:
+
+```text
+clustering/clustering_results/characteristic_phrases_final.png
+```

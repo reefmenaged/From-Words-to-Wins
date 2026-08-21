@@ -606,7 +606,7 @@ def sentiment_sanity_check(
 
     print(
         get_answer_sentiment(
-            "I feel great and I am very happy with my game.",
+            "I feel like I'm playing great tennis this year.",
             sentiment_model,
         )
     )
@@ -615,7 +615,7 @@ def sentiment_sanity_check(
 
     print(
         get_answer_sentiment(
-            "I feel terrible and I am very disappointed with my performance.",
+            "I was very sad about losing another final.",
             sentiment_model,
         )
     )

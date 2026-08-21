@@ -73,6 +73,72 @@ Each row represents one player participating in one tournament and combines info
 
 Explores the constructed dataset to identify potential biases in its composition.
 
+### 5. Interview-Based Performance Prediction
+
+The interview-based performance prediction code is located under:
+
+```text
+interview_model_training/
+```
+
+The training pipeline uses the final project dataset directly from:
+
+```text
+data/processed/player_tournament_interview_dataset.csv
+```
+
+A single training script supports three experiment configurations:
+
+1. **DeBERTa** — uses interview text representations produced by `microsoft/deberta-v3-large` together with the structured tournament features.
+
+2. **ModernBERT** — uses interview text representations produced by `answerdotai/ModernBERT-large` together with the structured tournament features.
+
+3. **Features only** — trains the prediction model using only the structured tournament features, without interview text representations.
+
+The experiments can be executed from the project root using:
+
+```bash
+python interview_model_training/train.py --model deberta --device auto
+```
+
+```bash
+python interview_model_training/train.py --model modernbert --device auto
+```
+
+```bash
+python interview_model_training/train.py --model features --device auto
+```
+
+The `--device` argument supports:
+
+```text
+auto
+cpu
+cuda
+```
+
+Using `auto` automatically selects a GPU when CUDA is available and otherwise runs on the CPU.
+
+For the DeBERTa and ModernBERT configurations, the model processes the interview representation through an attention mechanism before combining it with the structured features.
+
+The generated outputs include:
+
+```text
+test_results.csv
+```
+
+which contains the evaluation results on the test set.
+
+For the interview-based DeBERTa and ModernBERT experiments, the pipeline also generates:
+
+```text
+test_interview_embeddings_after_attention.pt
+```
+
+which contains the test-set interview embeddings after the attention layer and before they are combined with the structured tournament features.
+
+The features-only configuration does not generate interview embeddings because interview text and the attention mechanism are not used in that experiment.
+
 ### Final Dataset
 
 The final dataset for the project is:

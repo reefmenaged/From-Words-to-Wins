@@ -1,0 +1,875 @@
+player_id,name_first,name_last,hand,dob,ioc,height,wikidata_id,full_name,tour
+200033,Serena,Williams,R,19810926.0,USA,175.0,Q11459,Serena Williams,WTA
+200079,Kim,Clijsters,R,19830608.0,BEL,175.0,Q11685,Kim Clijsters,WTA
+200748,Venus,Williams,R,19800617.0,USA,185.0,Q11578,Venus Williams,WTA
+201318,Bethanie,Mattek Sands,R,19850323.0,USA,168.0,Q54537,Bethanie Mattek Sands,WTA
+201320,Svetlana,Kuznetsova,R,19850627.0,RUS,174.0,Q192064,Svetlana Kuznetsova,WTA
+201325,Samantha,Stosur,R,19840330.0,AUS,172.0,Q191766,Samantha Stosur,WTA
+201329,Vera,Zvonareva,R,19840907.0,RUS,172.0,Q374053,Vera Zvonareva,WTA
+201345,Maria,Sharapova,R,19870419.0,RUS,188.0,Q11666,Maria Sharapova,WTA
+201366,Barbora,Strycova,R,19860328.0,CZE,164.0,Q230353,Barbora Strycova,WTA
+201397,Shuai,Peng,R,19860108.0,CHN,173.0,Q229087,Shuai Peng,WTA
+201426,Pauline,Parmentier,R,19860131.0,FRA,175.0,Q239646,Pauline Parmentier,WTA
+201427,Alize,Cornet,R,19900122.0,FRA,173.0,Q229002,Alize Cornet,WTA
+201435,Kateryna,Bondarenko,R,19860808.0,UKR,175.0,Q231974,Kateryna Bondarenko,WTA
+201443,Alexa,Glatch,R,19890910.0,USA,183.0,Q53553,Alexa Glatch,WTA
+201444,Su Wei,Hsieh,R,19860104.0,TPE,169.0,Q232566,Su Wei Hsieh,WTA
+201450,Tsvetana,Pironkova,R,19870913.0,BUL,180.0,Q229460,Tsvetana Pironkova,WTA
+201454,Akgul,Amanmuradova,R,19840623.0,UZB,190.0,Q236858,Akgul Amanmuradova,WTA
+201455,Elena,Vesnina,R,19860801.0,RUS,176.0,Q634844,Elena Vesnina,WTA
+201458,Victoria,Azarenka,R,19890731.0,BLR,180.0,Q10118,Victoria Azarenka,WTA
+201465,Kirsten,Flipkens,R,19860110.0,BEL,165.0,Q211599,Kirsten Flipkens,WTA
+201466,Kaia,Kanepi,R,19850610.0,EST,181.0,Q211428,Kaia Kanepi,WTA
+201468,Yaroslava,Shvedova,R,19870912.0,KAZ,180.0,Q229073,Yaroslava Shvedova,WTA
+201478,Varvara,Lepchenko,L,19860521.0,USA,180.0,Q54532,Varvara Lepchenko,WTA
+201481,Tamira,Paszek,R,19901206.0,AUT,165.0,Q230231,Tamira Paszek,WTA
+201483,Madison,Brengle,R,19900403.0,USA,168.0,Q53336,Madison Brengle,WTA
+201492,Andrea,Petkovic,R,19870909.0,GER,180.0,Q57557,Andrea Petkovic,WTA
+201493,Angelique,Kerber,L,19880118.0,GER,173.0,Q77178,Angelique Kerber,WTA
+201496,Caroline,Wozniacki,R,19900711.0,DEN,177.0,Q30767,Caroline Wozniacki,WTA
+201499,Anastasia,Pavlyuchenkova,R,19910703.0,RUS,177.0,Q487182,Anastasia Pavlyuchenkova,WTA
+201501,Olga,Govortsova,R,19880823.0,BLR,182.0,Q230248,Olga Govortsova,WTA
+201504,Julia,Goerges,R,19881102.0,GER,180.0,Q77167,Julia Goerges,WTA
+201506,Sara,Errani,R,19870429.0,ITA,164.0,Q229005,Sara Errani,WTA
+201512,Monica,Niculescu,R,19870925.0,ROU,168.0,Q230346,Monica Niculescu,WTA
+201513,Sabine,Lisicki,R,19890922.0,GER,178.0,Q76338,Sabine Lisicki,WTA
+201514,Sorana,Cirstea,R,19900407.0,ROU,176.0,Q230242,Sorana Cirstea,WTA
+201516,Evgeniya,Rodina,R,19890204.0,RUS,170.0,Q258950,Evgeniya Rodina,WTA
+201518,Yanina,Wickmayer,R,19891020.0,BEL,182.0,Q228983,Yanina Wickmayer,WTA
+201520,Petra,Kvitova,L,19900308.0,CZE,183.0,Q30812,Petra Kvitova,WTA
+201521,Carla,Suarez Navarro,R,19880903.0,ESP,162.0,Q230260,Carla Suarez Navarro,WTA
+201524,Urszula,Radwanska,R,19901207.0,POL,177.0,Q236866,Urszula Radwanska,WTA
+201527,Stefanie,Voegele,R,19900310.0,SUI,170.0,Q234838,Stefanie Voegele,WTA
+201529,Kristie,Ahn,R,19920615.0,USA,165.0,Q3104444,Kristie Ahn,WTA
+201533,Shuai,Zhang,R,19890121.0,CHN,177.0,Q197291,Shuai Zhang,WTA
+201534,Asia,Muhammad,R,19910404.0,USA,178.0,Q4806395,Asia Muhammad,WTA
+201535,Coco,Vandeweghe,R,19911206.0,USA,185.0,Q54688,Coco Vandeweghe,WTA
+201539,Christina,Mchale,R,19920511.0,USA,170.0,Q45405,Christina Mchale,WTA
+201540,Kristina,Mladenovic,R,19930514.0,FRA,184.0,Q242959,Kristina Mladenovic,WTA
+201545,Anastasija,Sevastova,R,19900413.0,LAT,169.0,Q232445,Anastasija Sevastova,WTA
+201548,Ajla,Tomljanovic,R,19930507.0,AUS,180.0,Q2712407,Ajla Tomljanovic,WTA
+201549,Petra,Martic,R,19910119.0,CRO,181.0,Q232553,Petra Martic,WTA
+201551,Arantxa,Rus,L,19901213.0,NED,180.0,Q239758,Arantxa Rus,WTA
+201554,Vitalia,Diatchenko,R,19900802.0,RUS,170.0,Q254756,Vitalia Diatchenko,WTA
+201555,Polona,Hercog,R,19910120.0,SLO,182.0,Q229079,Polona Hercog,WTA
+201556,Lucie,Hradecka,R,19850521.0,CZE,177.0,Q11583,Lucie Hradecka,WTA
+201565,Katarzyna,Piter,R,19910216.0,POL,173.0,Q83562,Katarzyna Piter,WTA
+201567,Alexandra,Dulgheru,R,19890530.0,ROU,172.0,Q231028,Alexandra Dulgheru,WTA
+201568,Kristina,Kucova,R,19900523.0,SVK,163.0,Q254267,Kristina Kucova,WTA
+201580,Xinyun,Han,L,19900530.0,CHN,172.0,Q713509,Xinyun Han,WTA
+201585,Sloane,Stephens,R,19930320.0,USA,170.0,Q54670,Sloane Stephens,WTA
+201586,Heather,Watson,R,19920519.0,GBR,170.0,Q239605,Heather Watson,WTA
+201590,Alison,Riske Amritraj,R,19900703.0,USA,173.0,Q54572,Alison Riske Amritraj,WTA
+201593,Irina Camelia,Begu,R,19900826.0,ROU,181.0,Q239751,Irina Camelia Begu,WTA
+201594,Simona,Halep,R,19910927.0,ROU,168.0,Q230156,Simona Halep,WTA
+201595,Misaki,Doi,L,19910429.0,JPN,159.0,Q34256,Misaki Doi,WTA
+201596,Johanna,Larsson,R,19880817.0,SWE,174.0,Q233328,Johanna Larsson,WTA
+201597,Kurumi,Nara,R,19911230.0,JPN,155.0,Q270125,Kurumi Nara,WTA
+201603,Shelby,Rogers,R,19921013.0,USA,175.0,Q377658,Shelby Rogers,WTA
+201605,Mandy,Minella,R,19851122.0,LUX,180.0,Q239841,Mandy Minella,WTA
+201606,Rebecca,Marino,R,19901216.0,CAN,183.0,Q241946,Rebecca Marino,WTA
+201610,Zarina,Diyas,R,19931018.0,KAZ,172.0,Q2466357,Zarina Diyas,WTA
+201611,Daria,Saville,R,19940305.0,AUS,166.0,Q2446649,Daria Saville,WTA
+201613,Arina,Rodionova,R,19891215.0,AUS,168.0,Q291769,Arina Rodionova,WTA
+201614,Caroline,Garcia,R,19931016.0,FRA,177.0,Q258877,Caroline Garcia,WTA
+201615,Lesia,Tsurenko,R,19890530.0,UKR,174.0,Q289378,Lesia Tsurenko,WTA
+201616,Lauren,Davis,R,19931009.0,USA,157.0,Q53405,Lauren Davis,WTA
+201619,Madison,Keys,R,19950217.0,USA,178.0,Q34403,Madison Keys,WTA
+201620,Monica,Puig,R,19930927.0,PUR,170.0,Q1616699,Monica Puig,WTA
+201621,Mona,Barthel,R,19900711.0,GER,185.0,Q77153,Mona Barthel,WTA
+201659,Melanie,Klaffner,R,19900522.0,AUT,171.0,Q531929,Melanie Klaffner,WTA
+201662,Karolina,Pliskova,R,19920321.0,CZE,184.0,Q289365,Karolina Pliskova,WTA
+201664,Pemra,Ozgen,R,19860508.0,TUR,170.0,Q3544658,Pemra Ozgen,WTA
+201666,Cagla,Buyukakcay,R,19890928.0,TUR,172.0,Q1616864,Cagla Buyukakcay,WTA
+201672,Nigina,Abduraimova,R,19940707.0,UZB,184.0,Q4054628,Nigina Abduraimova,WTA
+201674,Sabina,Sharipova,R,19940904.0,UZB,174.0,Q4520541,Sabina Sharipova,WTA
+201691,Dia,Evtimova,R,19870430.0,BUL,168.0,Q1616850,Dia Evtimova,WTA
+201693,Timea,Babos,R,19930510.0,HUN,179.0,Q239765,Timea Babos,WTA
+201696,Laura,Siegemund,R,19880304.0,GER,168.0,Q89128,Laura Siegemund,WTA
+201697,Kristyna,Pliskova,L,19920321.0,CZE,184.0,Q289295,Kristyna Pliskova,WTA
+201699,Martina,Caregaro,R,19920519.0,ITA,165.0,Q20007827,Martina Caregaro,WTA
+201701,Basak,Eraydin,R,19940621.0,TUR,,Q8707137,Basak Eraydin,WTA
+201709,Yulia,Putintseva,R,19950107.0,KAZ,163.0,Q2429984,Yulia Putintseva,WTA
+202387,Vlada,Ekshibarova,R,19890314.0,UZB,,Q4530716,Vlada Ekshibarova,WTA
+202410,Sofia,Shapatava,R,19890112.0,GEO,170.0,Q1753608,Sofia Shapatava,WTA
+202414,Catherine,Harrison,R,19940409.0,USA,,Q85236851,Catherine Harrison,WTA
+202418,Lara,Arruabarrena,R,19920320.0,ESP,166.0,Q237146,Lara Arruabarrena,WTA
+202421,Alison,Van Uytvanck,R,19940326.0,BEL,173.0,Q1976217,Alison Van Uytvanck,WTA
+202424,Conny,Perrin,R,19901225.0,SUI,174.0,Q5162081,Conny Perrin,WTA
+202425,Samantha,Murray,R,19871009.0,GBR,178.0,Q12193601,Samantha Murray,WTA
+202427,Johanna,Konta,R,19910517.0,GBR,180.0,Q770789,Johanna Konta,WTA
+202428,Kiki,Bertens,R,19911210.0,NED,182.0,Q239733,Kiki Bertens,WTA
+202429,Camila,Giorgi,R,19911230.0,ITA,168.0,Q34248,Camila Giorgi,WTA
+202434,Aleksandra,Krunic,R,19930315.0,SRB,163.0,Q2631763,Aleksandra Krunic,WTA
+202436,Reka Luca,Jani,R,19910731.0,HUN,161.0,Q772600,Reka Luca Jani,WTA
+202440,Paula,Ormaechea,R,19920928.0,ARG,170.0,Q269636,Paula Ormaechea,WTA
+202443,Valeria,Savinykh,R,19910220.0,RUS,167.0,Q440162,Valeria Savinykh,WTA
+202446,Eugenie,Bouchard,R,19940225.0,CAN,178.0,Q439032,Eugenie Bouchard,WTA
+202453,Saisai,Zheng,R,19940205.0,CHN,170.0,Q197634,Saisai Zheng,WTA
+202456,Alexandra,Cadantu Ignatik,R,19900503.0,ROU,170.0,Q239696,Alexandra Cadantu Ignatik,WTA
+202457,Bibiane,Schoofs,R,19880513.0,NED,170.0,Q17229,Bibiane Schoofs,WTA
+202458,Ashleigh,Barty,R,19960424.0,AUS,166.0,Q84056,Ashleigh Barty,WTA
+202460,Ons,Jabeur,R,19940828.0,TUN,167.0,Q290212,Ons Jabeur,WTA
+202464,Yuliana,Lizarazo,R,19930523.0,COL,175.0,Q8060948,Yuliana Lizarazo,WTA
+202468,Jessica,Pegula,R,19940224.0,USA,170.0,Q24159,Jessica Pegula,WTA
+202469,Garbine,Muguruza,R,19931008.0,ESP,182.0,Q34276,Garbine Muguruza,WTA
+202471,Karen,Barbat,R,19920703.0,DEN,,Q1729225,Karen Barbat,WTA
+202478,Tara,Moore,R,19920806.0,GBR,163.0,Q1616613,Tara Moore,WTA
+202479,Grace,Min,R,19940506.0,USA,163.0,Q54542,Grace Min,WTA
+202482,Barbara,Haas,R,19960319.0,AUT,165.0,Q4858938,Barbara Haas,WTA
+202484,Nicole,Gibbs,R,19930303.0,USA,168.0,Q53548,Nicole Gibbs,WTA
+202490,Rebecca,Peterson,R,19950806.0,SWE,173.0,Q6451785,Rebecca Peterson,WTA
+202491,Varvara,Flink,R,19961213.0,RUS,175.0,Q13512756,Varvara Flink,WTA
+202492,Qiang,Wang,R,19920114.0,CHN,172.0,Q4800760,Qiang Wang,WTA
+202493,Ekaterine,Gorgodze,L,19911203.0,GEO,,Q5350353,Ekaterine Gorgodze,WTA
+202494,Elina,Svitolina,R,19940912.0,UKR,174.0,Q270249,Elina Svitolina,WTA
+202499,Donna,Vekic,R,19960628.0,CRO,179.0,Q648854,Donna Vekic,WTA
+202503,Luksika,Kumkhum,R,19930721.0,THA,167.0,Q539526,Luksika Kumkhum,WTA
+202504,Ying Ying,Duan,R,19890703.0,CHN,186.0,Q4706382,Ying Ying Duan,WTA
+202505,Belinda,Bencic,R,19970310.0,SUI,175.0,Q509903,Belinda Bencic,WTA
+202506,Margarita,Gasparyan,R,19940901.0,RUS,183.0,Q4134097,Margarita Gasparyan,WTA
+202536,Ana,Bogdan,R,19921125.0,ROU,171.0,Q3614850,Ana Bogdan,WTA
+202579,Giulia,Gatto Monticone,R,19871118.0,ITA,177.0,Q3769266,Giulia Gatto Monticone,WTA
+202580,Federica,Di Sarra,R,19900516.0,ITA,,Q3741540,Federica Di Sarra,WTA
+202596,Mihaela,Buzarnescu,L,19880504.0,ROU,175.0,Q2439034,Mihaela Buzarnescu,WTA
+202600,Viktoriya,Tomova,R,19950225.0,BUL,170.0,Q10996110,Viktoriya Tomova,WTA
+202604,Despina,Papamichail,R,19930209.0,GRE,178.0,Q13512708,Despina Papamichail,WTA
+202611,Oksana,Kalashnikova,L,19900905.0,GEO,184.0,Q197549,Oksana Kalashnikova,WTA
+202628,Maryna,Zanevska,R,19930824.0,BEL,175.0,Q2626886,Maryna Zanevska,WTA
+202659,Tereza,Mrdeza,R,19901114.0,CRO,173.0,Q5212359,Tereza Mrdeza,WTA
+202662,Camilla,Rosatello,R,19950528.0,ITA,,Q29555684,Camilla Rosatello,WTA
+202663,Magda,Linette,R,19920212.0,POL,171.0,Q722311,Magda Linette,WTA
+202671,Cristina Andreea,Mitu,R,19910922.0,ROU,175.0,Q3697548,Cristina Andreea Mitu,WTA
+202672,Ekaterina,Yashina,R,19930806.0,RUS,173.0,Q5350350,Ekaterina Yashina,WTA
+202681,Gabriela,Dabrowski,R,19920401.0,CAN,175.0,Q5515953,Gabriela Dabrowski,WTA
+202684,Lin,Zhu,R,19940128.0,CHN,173.0,Q17319111,Lin Zhu,WTA
+202688,Isabella,Shinikova,R,19911025.0,BUL,184.0,Q6078092,Isabella Shinikova,WTA
+202694,Teliana,Pereira,R,19880720.0,BRA,168.0,Q34410,Teliana Pereira,WTA
+202701,Irina,Khromacheva,L,19950512.0,RUS,170.0,Q2187618,Irina Khromacheva,WTA
+202702,Tereza,Smitkova,R,19941010.0,CZE,176.0,Q13377560,Tereza Smitkova,WTA
+202705,Veronica,Cepede Royg,R,19920121.0,PAR,163.0,Q438508,Veronica Cepede Royg,WTA
+202707,Myrtille,Georges,R,19901221.0,FRA,174.0,Q6948568,Myrtille Georges,WTA
+202879,Tiffany,Cornelius,R,19890113.0,LUX,,Q27355602,Tiffany Cornelius,WTA
+202916,Georgina,Garcia Perez,U,19920513.0,ESP,187.0,Q21402261,Georgina Garcia Perez,WTA
+203236,Angelina,Gabueva,U,19881207.0,RUS,,Q18338409,Angelina Gabueva,WTA
+203281,Amandine,Hesse,R,19930116.0,FRA,164.0,Q1394777,Amandine Hesse,WTA
+203288,Jia Jing,Lu,R,19891118.0,CHN,173.0,Q17281094,Jia Jing Lu,WTA
+203297,Nadiya,Kichenok,R,19920720.0,UKR,172.0,Q4222571,Nadiya Kichenok,WTA
+203325,Martina,Di Giuseppe,R,19910210.0,ITA,,Q53855558,Martina Di Giuseppe,WTA
+203354,Martina,Trevisan,L,19931103.0,ITA,160.0,Q28758348,Martina Trevisan,WTA
+203379,Marina,Melnikova,R,19890205.0,RUS,173.0,Q6452511,Marina Melnikova,WTA
+203389,Danielle,Collins,R,19931213.0,USA,178.0,Q17523802,Danielle Collins,WTA
+203398,Danielle,Lao,R,19910528.0,USA,160.0,Q18044538,Danielle Lao,WTA
+203435,Dalila,Jakupovic,R,19910324.0,SLO,178.0,Q15830617,Dalila Jakupovic,WTA
+203462,Kateryna,Baindl,R,19940220.0,UKR,175.0,Q4226809,Kateryna Baindl,WTA
+203463,Nuria,Parrizas Diaz,R,19910715.0,ESP,167.0,Q42904647,Nuria Parrizas Diaz,WTA
+203475,Carol,Zhao,R,19950620.0,CAN,165.0,Q3702485,Carol Zhao,WTA
+203500,Sachia,Vickery,R,19950511.0,USA,162.0,Q14646554,Sachia Vickery,WTA
+203501,Taylor,Townsend,L,19960416.0,USA,170.0,Q766964,Taylor Townsend,WTA
+203509,Diana,Marcinkevica,R,19920803.0,LAT,170.0,Q2805247,Diana Marcinkevica,WTA
+203513,Robin,Anderson,R,19930412.0,USA,160.0,Q23059598,Robin Anderson,WTA
+203514,Katarzyna,Kawa,R,19921117.0,POL,178.0,Q15770368,Katarzyna Kawa,WTA
+203521,Andrea,Gamiz,R,19921031.0,VEN,162.0,Q4755117,Andrea Gamiz,WTA
+203530,Viktorija,Golubic,R,19921016.0,SUI,169.0,Q7929924,Viktorija Golubic,WTA
+203533,Anna Karolina,Schmiedlova,R,19940913.0,SVK,176.0,Q138094,Anna Karolina Schmiedlova,WTA
+203542,Daria,Mironova,R,19930409.0,RUS,,Q61058445,Daria Mironova,WTA
+203562,Erin,Routliffe,R,19950411.0,CAN,188.0,Q20895299,Erin Routliffe,WTA
+203564,Chloe,Paquet,R,19940701.0,FRA,179.0,Q16956915,Chloe Paquet,WTA
+203575,Danka,Kovinic,R,19941118.0,MNE,169.0,Q5219935,Danka Kovinic,WTA
+203578,Fangzhou,Liu,R,19951212.0,CHN,180.0,Q15491968,Fangzhou Liu,WTA
+204223,Peangtarn,Plipuech,R,19921115.0,THA,169.0,Q7157914,Peangtarn Plipuech,WTA
+204246,Lesley,Pattinama Kerkhove,R,19911104.0,NED,172.0,Q14942839,Lesley Pattinama Kerkhove,WTA
+204291,Na Lae,Han,L,19920706.0,KOR,,Q18044011,Na Lae Han,WTA
+204294,Su Jeong,Jang,R,19950313.0,KOR,,Q14941252,Su Jeong Jang,WTA
+204309,Stephanie,Wagner,R,19940917.0,GER,180.0,Q63992129,Stephanie Wagner,WTA
+204355,Katherine,Westbury,R,19930314.0,THA,177.0,Q18710881,Katherine Westbury,WTA
+204356,Emily,Fanning,U,19950613.0,NZL,,Q5372159,Emily Fanning,WTA
+204376,Demi,Schuurs,R,19930801.0,NED,170.0,Q3210313,Demi Schuurs,WTA
+204394,Valentini,Grammatikopoulou,U,19970209.0,GRE,,Q16399655,Valentini Grammatikopoulou,WTA
+204411,Storm,Hunter,L,19940811.0,AUS,166.0,Q7620174,Storm Hunter,WTA
+204419,Ana Sofia,Sanchez,L,19940413.0,MEX,,Q4750504,Ana Sofia Sanchez,WTA
+204420,Marcela,Zacarias,R,19940326.0,MEX,,Q622958,Marcela Zacarias,WTA
+204426,Anett,Kontaveit,R,19951224.0,EST,174.0,Q639366,Anett Kontaveit,WTA
+204427,Sara,Sorribes Tormo,R,19961008.0,ESP,176.0,Q17750103,Sara Sorribes Tormo,WTA
+204430,Antonia,Lottner,R,19960813.0,GER,185.0,Q122632,Antonia Lottner,WTA
+204431,Anna Lena,Friedsam,R,19940201.0,GER,,Q91683,Anna Lena Friedsam,WTA
+204434,Ysaline,Bonaventure,L,19940829.0,BEL,178.0,Q2511279,Ysaline Bonaventure,WTA
+205344,Beatrice,Gumulya,R,19910101.0,INA,161.0,Q4877155,Beatrice Gumulya,WTA
+205462,Melisa,Morales,R,19901204.0,GUA,,Q27536148,Melisa Morales,WTA
+205714,Julie,Gervais,U,19910722.0,FRA,,Q24228908,Julie Gervais,WTA
+205723,Anna,Zaja,R,19910625.0,GER,183.0,Q4767632,Anna Zaja,WTA
+205789,Na Ri,Kim,U,19900404.0,KOR,,Q20873426,Na Ri Kim,WTA
+205815,Eri,Hozumi,R,19940217.0,JPN,168.0,Q14626025,Eri Hozumi,WTA
+205892,Giuliana,Olmos,R,19930304.0,MEX,170.0,Q22351214,Giuliana Olmos,WTA
+205918,Ulrikke,Eikeri,R,19921216.0,NOR,,Q1618183,Ulrikke Eikeri,WTA
+205925,Aliaksandra,Sasnovich,R,19940322.0,BLR,174.0,Q4725560,Aliaksandra Sasnovich,WTA
+206007,Laura,Pigossi,R,19940802.0,BRA,164.0,Q6499315,Laura Pigossi,WTA
+206037,Daniela,Seguel,U,19921115.0,CHI,171.0,Q12857410,Daniela Seguel,WTA
+206102,Ankita,Raina,R,19930111.0,IND,163.0,Q4766073,Ankita Raina,WTA
+206105,Rutuja,Bhosale,R,19960327.0,IND,,Q7383549,Rutuja Bhosale,WTA
+206107,Zhaoxuan,Yang,R,19950211.0,CHN,,Q15478936,Zhaoxuan Yang,WTA
+206108,Jennifer,Brady,R,19950412.0,USA,178.0,Q17612134,Jennifer Brady,WTA
+206124,Tereza,Martincova,R,19941024.0,CZE,178.0,Q13426427,Tereza Martincova,WTA
+206175,Tess,Sugnaux,R,19950303.0,SUI,,Q19309903,Tess Sugnaux,WTA
+206194,Gabriela,Ce,L,19930303.0,BRA,,Q15711370,Gabriela Ce,WTA
+206219,Oceane,Dodin,R,19961024.0,FRA,,Q18328123,Oceane Dodin,WTA
+206242,Beatriz,Haddad Maia,L,19960530.0,BRA,185.0,Q2380901,Beatriz Haddad Maia,WTA
+206248,Iva,Primorac,U,19960410.0,CRO,,Q105712051,Iva Primorac,WTA
+206252,Barbora,Krejcikova,R,19951218.0,CZE,178.0,Q11052500,Barbora Krejcikova,WTA
+206255,Patricia Maria,Tig,R,19940727.0,ROU,,Q19632335,Patricia Maria Tig,WTA
+206289,Maria,Sakkari,R,19950725.0,GRE,172.0,Q6761562,Maria Sakkari,WTA
+206292,Astra,Sharma,R,19950911.0,AUS,178.0,Q45696181,Astra Sharma,WTA
+206294,Yue,Yuan,R,19980925.0,CHN,184.0,,Yue Yuan,WTA
+206335,Jesika,Maleckova,R,19940816.0,CZE,,Q23715582,Jesika Maleckova,WTA
+206336,Julia,Stamatova,L,19930604.0,BUL,,Q13512703,Julia Stamatova,WTA
+206345,Victoria,Bosio,R,19941003.0,ARG,,Q16492404,Victoria Bosio,WTA
+206349,Mayo,Hibi,R,19960403.0,JPN,165.0,Q13646075,Mayo Hibi,WTA
+206362,Naiktha,Bains,R,19971217.0,GBR,174.0,Q15621304,Naiktha Bains,WTA
+206363,Anna,Danilina,R,19950820.0,KAZ,,Q4766943,Anna Danilina,WTA
+206368,Veronika,Kudermetova,R,19970424.0,RUS,175.0,Q14618664,Veronika Kudermetova,WTA
+206374,Yafan,Wang,R,19940430.0,CHN,170.0,Q15469035,Yafan Wang,WTA
+206387,Aymet,Uzcategui,U,19951201.0,VEN,,Q26132241,Aymet Uzcategui,WTA
+206391,Ellen,Perez,L,19951010.0,AUS,169.0,Q22086227,Ellen Perez,WTA
+206408,Nadia,Podoroska,R,19970210.0,ARG,170.0,Q16496064,Nadia Podoroska,WTA
+206417,Leolia,Jeanjean,R,19950814.0,FRA,,Q107608347,Leolia Jeanjean,WTA
+206420,Ekaterina,Alexandrova,R,19941115.0,RUS,175.0,Q23719121,Ekaterina Alexandrova,WTA
+206430,Carolina,Alves,U,19960423.0,BRA,,Q19281575,Carolina Alves,WTA
+208531,Kirsten Andrea,Weedon,U,19890218.0,GUA,,Q33190431,Kirsten Andrea Weedon,WTA
+209712,Elaine,Genovese,R,19910111.0,MLT,,Q52063108,Elaine Genovese,WTA
+210046,Anna Clarice,Patrimonio,R,19931125.0,PHI,,Q27825162,Anna Clarice Patrimonio,WTA
+210173,Ushna,Suhail,R,19930626.0,PAK,,Q18128484,Ushna Suhail,WTA
+210174,Sarah,Mahboob Khan,R,19910209.0,PAK,,Q7422559,Sarah Mahboob Khan,WTA
+210303,Kathinka,Von Deichmann,R,19940516.0,LIE,176.0,Q6376623,Kathinka Von Deichmann,WTA
+210337,Natalija,Stevanovic,R,19940725.0,SRB,,Q6968276,Natalija Stevanovic,WTA
+210622,Andrea,Lazaro Garcia,R,19941104.0,ESP,,Q97101712,Andrea Lazaro Garcia,WTA
+210705,Irina,Bara,R,19950318.0,ROU,,Q20140204,Irina Bara,WTA
+210722,Elise,Mertens,R,19951117.0,BEL,179.0,Q17381675,Elise Mertens,WTA
+210738,Aldila,Sutjiadi,R,19950502.0,INA,170.0,Q26838133,Aldila Sutjiadi,WTA
+210786,Anastasia,Vdovenco,R,19940420.0,MDA,,Q15217806,Anastasia Vdovenco,WTA
+210847,Miriana,Tona,U,19950109.0,ITA,,Q96063370,Miriana Tona,WTA
+210886,Mayar,Sherif,R,19960505.0,EGY,180.0,Q19577829,Mayar Sherif,WTA
+210951,Marian Jade,Capadocia,R,19950917.0,PHI,,Q19968802,Marian Jade Capadocia,WTA
+211031,Sarah Beth,Grey,L,19950810.0,GBR,,Q61751342,Sarah Beth Grey,WTA
+211063,Valeriya,Strakhova,R,19950609.0,UKR,,Q20788525,Valeriya Strakhova,WTA
+211095,Bernarda,Pera,L,19941203.0,USA,175.0,Q13850958,Bernarda Pera,WTA
+211107,Katie,Boulter,R,19960801.0,GBR,180.0,Q16979848,Katie Boulter,WTA
+211122,Charlotte,Roemer,R,19940108.0,ECU,171.0,Q18592498,Charlotte Roemer,WTA
+211148,Jasmine,Paolini,R,19960104.0,ITA,160.0,Q19973674,Jasmine Paolini,WTA
+211208,Ho Ching,Wu,R,19910830.0,HKG,,Q18129377,Ho Ching Wu,WTA
+211216,Cristiana,Ferrando,R,19950810.0,ITA,,Q25061974,Cristiana Ferrando,WTA
+211222,Jamie,Loeb,R,19950308.0,USA,168.0,Q20708205,Jamie Loeb,WTA
+211225,Quinn,Gleason,R,19941110.0,USA,178.0,Q29432237,Quinn Gleason,WTA
+211260,Marie,Benoit,L,19950316.0,BEL,,Q19295794,Marie Benoit,WTA
+211267,Daniela,Ciobanu,R,19950309.0,MDA,,Q84566021,Daniela Ciobanu,WTA
+211269,Eudice Wong,Chong,U,19960422.0,HKG,,Q27450085,Eudice Wong Chong,WTA
+211279,Harriet,Dart,R,19960728.0,GBR,175.0,Q20026221,Harriet Dart,WTA
+211296,Dea,Herdzelas,R,19961107.0,BIH,,Q5244997,Dea Herdzelas,WTA
+211316,Jessika,Ponchet,R,19960926.0,FRA,,Q26703355,Jessika Ponchet,WTA
+211337,Tamara,Korpatsch,R,19950512.0,GER,170.0,Q19924597,Tamara Korpatsch,WTA
+211342,Gabriela,Lee,L,19950823.0,ROU,,Q67888435,Gabriela Lee,WTA
+211344,Caroline,Uebelhoer,U,19960408.0,GER,,Q24399562,Caroline Uebelhoer,WTA
+211407,Dejana,Radanovic,U,19960514.0,SRB,,Q23661765,Dejana Radanovic,WTA
+211411,Nina,Stojanovic,R,19960730.0,SRB,176.0,Q15720452,Nina Stojanovic,WTA
+211432,Eden,Silva,R,19960314.0,GBR,,Q24293150,Eden Silva,WTA
+211456,Julia,Terziyska,R,19960305.0,BUL,180.0,Q19705202,Julia Terziyska,WTA
+211529,Sandra,Samir,R,19971104.0,EGY,170.0,Q13411134,Sandra Samir,WTA
+211533,Jelena,Ostapenko,R,19970608.0,LAT,177.0,Q5551564,Jelena Ostapenko,WTA
+211539,Fiona,Ferro,R,19970312.0,FRA,170.0,Q16885515,Fiona Ferro,WTA
+211541,Jacqueline,Cabaj Awad,R,19960128.0,SWE,,Q17418392,Jacqueline Cabaj Awad,WTA
+211544,Nagi,Hanatani,R,19950307.0,JPN,,Q105745755,Nagi Hanatani,WTA
+211552,Harmony,Tan,R,19970911.0,FRA,,Q18412245,Harmony Tan,WTA
+211574,Mary Victoria,Cancini,R,19971008.0,VEN,,,Mary Victoria Cancini,WTA
+211635,Louisa,Chirico,R,19960516.0,USA,175.0,Q12825880,Louisa Chirico,WTA
+211643,Kajsa,Rinaldo Persson,R,19971111.0,SWE,,Q23001502,Kajsa Rinaldo Persson,WTA
+211651,Paula,Badosa,R,19971115.0,ESP,180.0,Q19560013,Paula Badosa,WTA
+211668,Riya,Bhatia,R,19970924.0,IND,,Q28736658,Riya Bhatia,WTA
+211684,Magdalena,Frech,R,19971215.0,POL,171.0,Q10636559,Magdalena Frech,WTA
+211685,Rebecca,Sramkova,R,19961019.0,SVK,,Q15867627,Rebecca Sramkova,WTA
+211701,Katerina,Siniakova,R,19960510.0,CZE,174.0,Q3720044,Katerina Siniakova,WTA
+211702,Nao,Hibino,R,19941128.0,JPN,163.0,Q18210941,Nao Hibino,WTA
+211713,Jaqueline,Cristian,R,19980605.0,ROU,180.0,Q20676333,Jaqueline Cristian,WTA
+211736,Ivana,Jorovic,R,19970503.0,SRB,174.0,Q15636316,Ivana Jorovic,WTA
+211756,Patcharin,Cheapchandej,R,19941213.0,THA,,Q46996766,Patcharin Cheapchandej,WTA
+211765,Emina,Bektas,R,19930330.0,USA,,Q26728090,Emina Bektas,WTA
+211768,Naomi,Osaka,R,19971016.0,JPN,180.0,Q17466583,Naomi Osaka,WTA
+211779,Yana,Morderger,R,19970307.0,GER,,Q24512481,Yana Morderger,WTA
+211796,Francoise,Abanda,R,19970205.0,CAN,178.0,Q14863648,Francoise Abanda,WTA
+211809,Daria,Lodikova,R,19960525.0,RUS,,Q106311183,Daria Lodikova,WTA
+211814,Julia,Grabher,R,19960702.0,AUT,170.0,Q18972370,Julia Grabher,WTA
+211817,Elena Gabriela,Ruse,R,19971106.0,ROU,,Q20745254,Elena Gabriela Ruse,WTA
+211843,Anhelina,Kalinina,R,19970207.0,UKR,179.0,Q15642606,Anhelina Kalinina,WTA
+211846,Kyoka,Okamura,R,19951006.0,JPN,,Q18211248,Kyoka Okamura,WTA
+211856,Anastasiya,Komardina,L,19970708.0,RUS,,Q21127219,Anastasiya Komardina,WTA
+211864,Maria Fernanda,Herazo Gonzalez,L,19970322.0,COL,166.0,Q15788251,Maria Fernanda Herazo Gonzalez,WTA
+211874,Victoria,Rodriguez,U,19950422.0,MEX,170.0,Q14775760,Victoria Rodriguez,WTA
+211878,Lizette,Cabrera,R,19971219.0,AUS,167.0,Q27505559,Lizette Cabrera,WTA
+211880,Priscilla,Hon,R,19980510.0,AUS,171.0,Q18810520,Priscilla Hon,WTA
+211881,Olivia,Tjandramulia,R,19970511.0,AUS,167.0,Q15628805,Olivia Tjandramulia,WTA
+211901,Aliona,Bolsova,R,19971106.0,ESP,172.0,Q19819866,Aliona Bolsova,WTA
+211903,Barbara,Gatica,U,19960816.0,CHI,,Q27049219,Barbara Gatica,WTA
+211920,Martina,Capurro Taborda,L,19971204.0,ARG,,Q26209632,Martina Capurro Taborda,WTA
+211941,Zoe,Hives,R,19961024.0,AUS,,Q22236502,Zoe Hives,WTA
+211951,Ana,Konjuh,R,19971227.0,CRO,174.0,Q2365460,Ana Konjuh,WTA
+211967,Nina,Potocnik,R,19970112.0,SLO,,Q48030357,Nina Potocnik,WTA
+211977,Adrijana,Lekaj,R,19950629.0,CRO,170.0,Q19984913,Adrijana Lekaj,WTA
+212001,Natalia,Vikhlyantseva,R,19970216.0,RUS,185.0,Q18707652,Natalia Vikhlyantseva,WTA
+212044,Katharina,Gerlach,R,19980219.0,GER,,Q19935786,Katharina Gerlach,WTA
+212045,Sinead,Lohan,U,19950210.0,IRL,,Q27858264,Sinead Lohan,WTA
+212303,Justina,Mikulskyte,U,19960206.0,LTU,,Q6318316,Justina Mikulskyte,WTA
+212805,Paige Mary,Hourigan,R,19970203.0,NZL,,Q7124720,Paige Mary Hourigan,WTA
+212903,Laura,Correia,R,19951129.0,LUX,,Q27307693,Laura Correia,WTA
+213525,Jil,Teichmann,L,19970715.0,SUI,170.0,Q18011082,Jil Teichmann,WTA
+213530,Allie,Kiick,R,19950630.0,USA,170.0,Q1995913,Allie Kiick,WTA
+213544,Jana,Fett,R,19961102.0,CRO,168.0,Q15948435,Jana Fett,WTA
+213550,Sofia,Kenin,R,19981114.0,USA,170.0,Q18679122,Sofia Kenin,WTA
+213576,Iryna,Shymanovich,R,19970630.0,BLR,,Q15710275,Iryna Shymanovich,WTA
+213583,Tatjana,Maria,R,19870808.0,GER,172.0,Q57942,Tatjana Maria,WTA
+213620,Jessica,Pieri,R,19970424.0,ITA,,Q25062000,Jessica Pieri,WTA
+213631,Marie,Bouzkova,R,19980721.0,CZE,180.0,Q18003204,Marie Bouzkova,WTA
+213646,Dalma,Galfi,R,19980813.0,HUN,178.0,Q13637616,Dalma Galfi,WTA
+213657,Martha,Matoula,R,19970426.0,GRE,,Q107392784,Martha Matoula,WTA
+213666,Maddison,Inglis,R,19980114.0,AUS,171.0,Q18810491,Maddison Inglis,WTA
+213672,Usue Maitane,Arconada,R,19981028.0,USA,165.0,Q25820408,Usue Maitane Arconada,WTA
+213706,Irene,Burillo Escorihuela,R,19970723.0,ESP,,Q97293772,Irene Burillo Escorihuela,WTA
+213710,Cristina,Bucsa,R,19980101.0,ESP,,Q56702741,Cristina Bucsa,WTA
+213721,Ines,Murta,U,19970531.0,POR,,Q15711159,Ines Murta,WTA
+213734,Mariam,Bolkvadze,L,19980101.0,GEO,,Q19281713,Mariam Bolkvadze,WTA
+213767,Ayla,Aksu,R,19960715.0,USA,170.0,Q20715280,Ayla Aksu,WTA
+213771,Rasheeda,Mcadoo,U,19950630.0,USA,,Q106363596,Rasheeda Mcadoo,WTA
+213779,Raluka,Serban,R,19970617.0,CYP,,,Raluka Serban,WTA
+213821,Wushuang,Zheng,U,19981129.0,CHN,,Q26209574,Wushuang Zheng,WTA
+213828,Chompoothip,Jandakate,U,19951103.0,THA,,Q84350080,Chompoothip Jandakate,WTA
+213837,Ylena,In Albon,R,19990306.0,SUI,,Q29362949,Ylena In Albon,WTA
+213841,Tamachan,Momkoonthod,L,19970414.0,THA,,Q21421115,Tamachan Momkoonthod,WTA
+213849,Nicole,Fossa Huergo,U,19950526.0,ITA,,Q108047580,Nicole Fossa Huergo,WTA
+213873,Gabriela Andrea,Knutson,R,19970421.0,CZE,,,Gabriela Andrea Knutson,WTA
+213887,Renata,Zarazua,R,19970930.0,MEX,,Q18636254,Renata Zarazua,WTA
+213889,Greet,Minnen,R,19970814.0,BEL,,Q23059523,Greet Minnen,WTA
+213908,Yuriko,Miyazaki,R,19951111.0,GBR,165.0,Q88211086,Yuriko Miyazaki,WTA
+213926,Bianca,Turati,R,19970617.0,ITA,173.0,Q26272208,Bianca Turati,WTA
+213948,Dabin,Kim,R,19970102.0,KOR,,Q27469821,Dabin Kim,WTA
+213949,Hanna,Chang,R,19980225.0,USA,,Q66438454,Hanna Chang,WTA
+213974,Lamis,Alhussein Abdel Aziz,U,19980424.0,EGY,,Q52063092,Lamis Alhussein Abdel Aziz,WTA
+213998,Ipek,Oz,U,19990708.0,TUR,,Q47169113,Ipek Oz,WTA
+214020,Amina,Anshba,L,19990909.0,RUS,,Q43021496,Amina Anshba,WTA
+214032,Chiraz,Bechri,R,19980723.0,TUN,,Q23888024,Chiraz Bechri,WTA
+214040,Kimberly,Birrell,R,19980429.0,AUS,170.0,Q15635268,Kimberly Birrell,WTA
+214060,Yuliana,Monroy,U,19980920.0,COL,,,Yuliana Monroy,WTA
+214081,Katharina,Hobgarski,R,19970618.0,GER,171.0,Q20645920,Katharina Hobgarski,WTA
+214082,Daria,Kasatkina,R,19970507.0,AUS,170.0,Q17144642,Daria Kasatkina,WTA
+214096,Karolina,Muchova,R,19960821.0,CZE,178.0,Q23661750,Karolina Muchova,WTA
+214119,Rebeka,Masarova,R,19990806.0,ESP,186.0,Q24333000,Rebeka Masarova,WTA
+214149,Viktoria,Hruncakova,R,19980511.0,SVK,,Q20968624,Viktoria Hruncakova,WTA
+214181,Anastasia,Gasanova,R,19990515.0,RUS,,Q104698749,Anastasia Gasanova,WTA
+214189,Alicia,Herrero Linana,R,19981229.0,ESP,,,Alicia Herrero Linana,WTA
+214191,Seone,Mendez,R,19990515.0,AUS,,Q60575176,Seone Mendez,WTA
+214212,Noelia,Bouzo Zanotti,R,19990906.0,ESP,,,Noelia Bouzo Zanotti,WTA
+214219,Tessah,Andrianjafitrimo,R,19981011.0,FRA,169.0,Q21162243,Tessah Andrianjafitrimo,WTA
+214236,Angela,Fita Boluda,U,19990712.0,ESP,,Q105358186,Angela Fita Boluda,WTA
+214247,Lena,Rueffer,R,19980823.0,GER,,Q19969572,Lena Rueffer,WTA
+214262,Ena,Shibahara,R,19980212.0,JPN,170.0,Q26721334,Ena Shibahara,WTA
+214263,Catherine Cartan,Bellis,R,19990408.0,USA,,Q16965153,Catherine Cartan Bellis,WTA
+214301,Tatiana,Pieri,U,19990329.0,ITA,,Q96072370,Tatiana Pieri,WTA
+214304,Vera,Lapko,R,19980929.0,BLR,184.0,Q18965287,Vera Lapko,WTA
+214386,Xinyu,Gao,R,19971121.0,CHN,,Q27156306,Xinyu Gao,WTA
+214388,Anna,Bondar,R,19970527.0,HUN,,Q19281715,Anna Bondar,WTA
+214405,Mirjam,Bjorklund,U,19980729.0,SWE,,Q33298545,Mirjam Bjorklund,WTA
+214418,Vaidehi,Chaudhari,U,20000214.0,IND,,,Vaidehi Chaudhari,WTA
+214452,Caroline,Dolehide,R,19980905.0,USA,178.0,Q34114014,Caroline Dolehide,WTA
+214453,Sophie,Chang,R,19970528.0,USA,,Q23752002,Sophie Chang,WTA
+214459,Lucia,Bronzetti,R,19981210.0,ITA,,Q90569642,Lucia Bronzetti,WTA
+214461,Tamara,Zidansek,R,19971226.0,SLO,168.0,Q20830267,Tamara Zidansek,WTA
+214480,Miriam Bianca,Bulgaru,R,19981008.0,ROU,,Q55584978,Miriam Bianca Bulgaru,WTA
+214507,Berfu,Cengiz,R,19991018.0,TUR,,Q26507754,Berfu Cengiz,WTA
+214521,Lea,Boskovic,R,19990922.0,CRO,,Q48009425,Lea Boskovic,WTA
+214540,Chihiro,Muramatsu,L,19980522.0,JPN,161.0,Q56600124,Chihiro Muramatsu,WTA
+214541,Fanny,Stollar,R,19981112.0,HUN,172.0,Q20668287,Fanny Stollar,WTA
+214544,Aryna,Sabalenka,R,19980505.0,BLR,182.0,Q23448791,Aryna Sabalenka,WTA
+214546,Ekaterina,Kazionova,R,19990113.0,RUS,,Q106292908,Ekaterina Kazionova,WTA
+214577,Stacey,Fung,U,19970206.0,CAN,,Q96180310,Stacey Fung,WTA
+214593,Lucrezia,Stefanini,R,19980515.0,ITA,,Q63967008,Lucrezia Stefanini,WTA
+214600,Georgia Andreea,Craciun,U,19990714.0,ROU,,Q33084998,Georgia Andreea Craciun,WTA
+214604,Maria Lourdes,Carle,R,20000210.0,ARG,,Q25350191,Maria Lourdes Carle,WTA
+214643,Liudmila,Samsonova,R,19981111.0,RUS,180.0,Q26416429,Liudmila Samsonova,WTA
+214646,Xiaodi,You,U,19960512.0,CHN,,Q15634509,Xiaodi You,WTA
+214653,Andreea,Prisacariu,U,20000209.0,ROU,,Q106367233,Andreea Prisacariu,WTA
+214684,Katherine,Sebov,R,19990105.0,CAN,173.0,,Katherine Sebov,WTA
+214691,Ylona Georgiana,Ghioroaie,U,19980328.0,ROU,,Q95960284,Ylona Georgiana Ghioroaie,WTA
+214694,Karman,Thandi,R,19980616.0,IND,183.0,Q28736634,Karman Thandi,WTA
+214741,Anastasia,Kulikova,L,20000215.0,FIN,,Q57338276,Anastasia Kulikova,WTA
+214782,Fernanda,Contreras Gomez,R,19971008.0,MEX,,Q56678176,Fernanda Contreras Gomez,WTA
+214818,Mira,Antonitsch,R,19981216.0,AUT,,Q21970598,Mira Antonitsch,WTA
+214826,Susan,Bandecchi,R,19980701.0,SUI,,Q65588846,Susan Bandecchi,WTA
+214839,Jodie,Burrage,R,19990528.0,GBR,,Q64374288,Jodie Burrage,WTA
+214862,Martina,Okalova,U,19970605.0,SVK,,,Martina Okalova,WTA
+214880,Iana,Tishchenko,R,19960424.0,MDA,,,Iana Tishchenko,WTA
+214906,Claire,Liu,R,20000525.0,USA,170.0,Q20898017,Claire Liu,WTA
+214919,Dalila,Spiteri,R,19970424.0,ITA,,Q65923182,Dalila Spiteri,WTA
+214930,Jenny,Duerst,U,19990325.0,SUI,,,Jenny Duerst,WTA
+214935,Malene,Helgo,U,19990826.0,NOR,,Q24006300,Malene Helgo,WTA
+214939,Anna,Kalinskaya,R,19981202.0,RUS,175.0,Q20088944,Anna Kalinskaya,WTA
+214954,Marketa,Vondrousova,L,19990628.0,CZE,173.0,Q18918709,Marketa Vondrousova,WTA
+214981,Elena,Rybakina,R,19990617.0,KAZ,184.0,Q42055714,Elena Rybakina,WTA
+214992,Zhibek,Kulambayeva,R,20000326.0,KAZ,172.0,Q48200215,Zhibek Kulambayeva,WTA
+215016,Eleonora,Molinaro,U,20000904.0,LUX,,Q21970595,Eleonora Molinaro,WTA
+215018,Destanee,Aiava,R,20000510.0,AUS,175.0,Q23059524,Destanee Aiava,WTA
+215020,Anna,Blinkova,R,19980910.0,RUS,179.0,Q20676027,Anna Blinkova,WTA
+215035,Dayana,Yastremska,R,20000515.0,UKR,175.0,Q23888026,Dayana Yastremska,WTA
+215037,Kayla,Day,L,19990928.0,USA,173.0,Q26696206,Kayla Day,WTA
+215042,Katie,Swan,R,19990324.0,GBR,170.0,Q18920151,Katie Swan,WTA
+215045,Xinyu,Jiang,U,19990303.0,CHN,,Q30068620,Xinyu Jiang,WTA
+215062,Carson,Branstine,R,20000909.0,USA,180.0,Q28532571,Carson Branstine,WTA
+215064,Maria,Mateas,R,19990721.0,USA,,Q25929578,Maria Mateas,WTA
+215077,Viktoria,Morvayova,U,20010310.0,SVK,,Q106293997,Viktoria Morvayova,WTA
+215091,Sarah,Pang,U,19850306.0,SGP,,,Sarah Pang,WTA
+215096,Jaimee,Fourlis,R,19990917.0,AUS,168.0,,Jaimee Fourlis,WTA
+215111,Joanne,Zuger,U,20001117.0,SUI,,Q65585520,Joanne Zuger,WTA
+215131,Nefisa,Berberovic,U,19990703.0,BIH,,Q28777208,Nefisa Berberovic,WTA
+215138,Lulu,Sun,L,20010414.0,NZL,,Q61944757,Lulu Sun,WTA
+215144,Daniela,Vismane,R,20000810.0,LAT,,Q28777187,Daniela Vismane,WTA
+215151,Lina,Glushko,U,20000112.0,ISR,,Q52063079,Lina Glushko,WTA
+215166,Aneta,Kladivova,R,20000523.0,CZE,,Q106354321,Aneta Kladivova,WTA
+215174,Claudia,Hoste Ferrer,U,19981112.0,ESP,,,Claudia Hoste Ferrer,WTA
+215186,Watsachol,Sawasdee,L,20000117.0,THA,,Q84349697,Watsachol Sawasdee,WTA
+215219,Kaja,Juvan,R,20001125.0,SLO,170.0,Q29478863,Kaja Juvan,WTA
+215250,Hanyu,Guo,R,19980518.0,CHN,,Q41735946,Hanyu Guo,WTA
+215259,Leonie,Kung,R,20001021.0,SUI,176.0,Q29362952,Leonie Kung,WTA
+215260,Shelly,Bereznyak,R,20000710.0,ISR,,Q84586765,Shelly Bereznyak,WTA
+215290,Katarina,Zavatska,R,20000205.0,UKR,173.0,Q24075683,Katarina Zavatska,WTA
+215305,Desirae,Krawczyk,L,19940111.0,USA,170.0,Q34115005,Desirae Krawczyk,WTA
+215306,Emiliana,Arango,R,20001128.0,COL,,Q24258872,Emiliana Arango,WTA
+215314,En Shuo,Liang,U,20001002.0,TPE,,Q47500277,En Shuo Liang,WTA
+215337,Olga,Danilovic,L,20010123.0,SRB,,Q22679891,Olga Danilovic,WTA
+215370,Bianca,Andreescu,R,20000616.0,CAN,170.0,Q22957410,Bianca Andreescu,WTA
+215371,Francesca,Di Lorenzo,L,19970722.0,USA,170.0,,Francesca Di Lorenzo,WTA
+215372,Ksenia,Laskutova,R,19960829.0,RUS,,,Ksenia Laskutova,WTA
+215386,Vivian,Wolff,R,19981008.0,GER,,,Vivian Wolff,WTA
+215395,Oona,Orpana,R,20010121.0,FIN,,Q18669754,Oona Orpana,WTA
+215398,Lucia,Cortez Llorca,U,20000605.0,ESP,,Q106367622,Lucia Cortez Llorca,WTA
+215431,Emily,Appleton,R,19990901.0,GBR,,Q65369872,Emily Appleton,WTA
+215453,Marina,Bassols Ribera,R,19991213.0,ESP,165.0,Q61854961,Marina Bassols Ribera,WTA
+215468,Momoko,Kobori,R,19980822.0,JPN,158.0,Q39350484,Momoko Kobori,WTA
+215480,Suzan,Lamens,R,19990705.0,NED,,Q47088527,Suzan Lamens,WTA
+215550,Ayano,Shimizu,R,19980411.0,JPN,,Q53648288,Ayano Shimizu,WTA
+215566,Gergana,Topalova,R,20000222.0,BUL,,Q61644154,Gergana Topalova,WTA
+215571,Guiomar,Maristany Zuleta De Reales,U,19990219.0,ESP,,Q105745607,Guiomar Maristany Zuleta De Reales,WTA
+215572,Nuria,Brancaccio,R,20000624.0,ITA,,Q96108571,Nuria Brancaccio,WTA
+215581,Fadona Titalyana,Kusumawati,U,20000809.0,INA,,,Fadona Titalyana Kusumawati,WTA
+215588,Yasmine,Mansouri,R,20010515.0,FRA,,Q56613038,Yasmine Mansouri,WTA
+215613,Emma,Navarro,R,20010518.0,USA,,Q62675797,Emma Navarro,WTA
+215614,Mei,Yamaguchi,U,19990614.0,JPN,152.0,Q106294428,Mei Yamaguchi,WTA
+215627,Nicole,Khirin,R,20010116.0,ISR,,Q102045537,Nicole Khirin,WTA
+215684,Lilly Elida,Haseth,U,20011003.0,NOR,,Q64426767,Lilly Elida Haseth,WTA
+215696,Diae,El Jardi,R,20001013.0,MAR,,Q47469577,Diae El Jardi,WTA
+215697,Arlinda,Rushiti,R,19990327.0,SUI,,Q42322070,Arlinda Rushiti,WTA
+215713,Anastasia,Potapova,R,20010330.0,RUS,175.0,Q24955766,Anastasia Potapova,WTA
+215784,Anastasia,Iamachkine,R,20000912.0,PER,,Q47159169,Anastasia Iamachkine,WTA
+215785,Camila,Osorio,R,20011222.0,COL,162.0,Q29052147,Camila Osorio,WTA
+215798,Rosa,Vicens Mas,U,20000625.0,ESP,,,Rosa Vicens Mas,WTA
+215802,Emeline,Dartron,U,20000412.0,FRA,,,Emeline Dartron,WTA
+215806,Alice,Robbe,U,20000510.0,FRA,,Q66684864,Alice Robbe,WTA
+215807,Manon,Leonard,R,20010120.0,FRA,,,Manon Leonard,WTA
+215832,Gabriella,Da Silva Fick,R,20000823.0,AUS,,Q61016393,Gabriella Da Silva Fick,WTA
+215872,Kamilla,Rakhimova,R,20010828.0,UZB,,Q65769637,Kamilla Rakhimova,WTA
+215878,Aurora,Zantedeschi,R,20001102.0,ITA,,,Aurora Zantedeschi,WTA
+215898,Jule,Niemeier,R,19990812.0,GER,178.0,Q52084361,Jule Niemeier,WTA
+215899,Simona,Waltert,R,20001213.0,SUI,,Q33011749,Simona Waltert,WTA
+215910,Panna,Udvardy,R,19980928.0,HUN,170.0,Q28815694,Panna Udvardy,WTA
+215926,Julita,Saner,U,19990429.0,SWE,,,Julita Saner,WTA
+215936,Francesca,Jones,R,20000919.0,GBR,,Q62700236,Francesca Jones,WTA
+215946,Ye Xin,Ma,U,19990610.0,CHN,,Q106293196,Ye Xin Ma,WTA
+215950,Yasmina,Karimjanova,L,20010821.0,UZB,,,Yasmina Karimjanova,WTA
+215983,Ann,Li,R,20000626.0,USA,170.0,Q39074494,Ann Li,WTA
+215988,Mai,Hontama,R,19990830.0,JPN,,Q66495445,Mai Hontama,WTA
+215992,Whitney,Osuigwe,R,20020417.0,USA,168.0,Q30217670,Whitney Osuigwe,WTA
+215996,Arianne,Hartono,R,19960421.0,NED,,Q58495489,Arianne Hartono,WTA
+216013,Yuliya,Hatouka,R,20000424.0,BLR,,Q63985558,Yuliya Hatouka,WTA
+216016,Xiyu,Wang,L,20010328.0,CHN,,Q41799108,Xiyu Wang,WTA
+216044,Yuki,Naito,R,20010216.0,JPN,,Q27832726,Yuki Naito,WTA
+216055,Francisca,Jorge,U,20000421.0,POR,,Q28778519,Francisca Jorge,WTA
+216062,Meiling,Wang,U,20000222.0,CHN,,Q57087753,Meiling Wang,WTA
+216074,Anna,Siskova,U,20010701.0,CZE,,,Anna Siskova,WTA
+216081,Maja,Chwalinska,L,20011011.0,POL,,Q28672411,Maja Chwalinska,WTA
+216083,Caty,Mcnally,R,20011120.0,USA,,Q27537235,Caty Mcnally,WTA
+216097,Elizabeth,Mandlik,R,20010519.0,USA,,Q66491001,Elizabeth Mandlik,WTA
+216107,Ella,Haavisto,U,20020328.0,FIN,,,Ella Haavisto,WTA
+216116,Elena,Malygina,U,20000527.0,EST,,Q48261035,Elena Malygina,WTA
+216119,Maileen,Nuudi,R,20000524.0,EST,,Q28755586,Maileen Nuudi,WTA
+216133,Xin Yu,Wang,R,20010926.0,CHN,182.0,Q44465805,Xin Yu Wang,WTA
+216139,Sofya,Lansere,U,20000929.0,RUS,,Q55760771,Sofya Lansere,WTA
+216146,Marta,Kostyuk,R,20020628.0,UKR,175.0,Q28535267,Marta Kostyuk,WTA
+216150,Lara,Escauriza,R,19981014.0,PAR,,Q84560918,Lara Escauriza,WTA
+216151,Jessica,Plazas,R,20020326.0,COL,,Q51770266,Jessica Plazas,WTA
+216153,Amanda,Anisimova,R,20010831.0,USA,180.0,,Amanda Anisimova,WTA
+216158,Mana,Kawamura,U,20010806.0,JPN,,,Mana Kawamura,WTA
+216173,Katerina,Tsygourova,U,20000511.0,SUI,,,Katerina Tsygourova,WTA
+216179,Valeriya,Olyanovskaya,U,20010312.0,RUS,,Q107573978,Valeriya Olyanovskaya,WTA
+216180,Zoziya,Kardava,R,20010715.0,RUS,,Q84415176,Zoziya Kardava,WTA
+216213,Sohyun,Park,U,20020702.0,KOR,,Q56702230,Sohyun Park,WTA
+216262,Clara,Burel,R,20010324.0,FRA,176.0,Q54086890,Clara Burel,WTA
+216265,Olivia,Gadecki,R,20020424.0,AUS,,Q104767538,Olivia Gadecki,WTA
+216347,Iga,Swiatek,R,20010531.0,POL,176.0,Q26840238,Iga Swiatek,WTA
+216367,Sada,Nahimana,R,20010421.0,BDI,,Q52424784,Sada Nahimana,WTA
+216376,Emilie,Elde,U,20020311.0,NOR,,,Emilie Elde,WTA
+216385,Caijsa Wilda,Hennemann,R,20010322.0,SWE,,Q76626574,Caijsa Wilda Hennemann,WTA
+216566,Mananchaya,Sawangkaew,R,20020710.0,THA,,Q61559705,Mananchaya Sawangkaew,WTA
+216579,Weronika,Falkowska,R,20000617.0,POL,,,Weronika Falkowska,WTA
+216587,Hong Yi Cody,Wong,U,20020314.0,HKG,,,Hong Yi Cody Wong,WTA
+219625,Fernanda,Labrana,R,19990313.0,CHI,,Q107473847,Fernanda Labrana,WTA
+219874,Sevil,Yuldasheva,U,20020109.0,UZB,,Q41082562,Sevil Yuldasheva,WTA
+219875,Varvara,Gracheva,R,20000802.0,FRA,,Q50332038,Varvara Gracheva,WTA
+219892,Mayuka,Aikawa,L,19980402.0,JPN,,,Mayuka Aikawa,WTA
+219917,Alycia,Parks,R,20001231.0,USA,185.0,Q105745525,Alycia Parks,WTA
+220043,Katriin,Saar,R,20020311.0,EST,,Q48261884,Katriin Saar,WTA
+220174,Shavit,Kimchi,R,20020112.0,ISR,,Q84411334,Shavit Kimchi,WTA
+220272,Sofia Nami,Samavati,U,20000214.0,DEN,,Q108325815,Sofia Nami Samavati,WTA
+220289,Isabel,Adrover Gallego,U,20010623.0,ESP,,,Isabel Adrover Gallego,WTA
+220309,Zeynep,Sonmez,R,20020430.0,TUR,,Q65599731,Zeynep Sonmez,WTA
+220332,Eva,Lys,R,20020112.0,GER,165.0,Q86838090,Eva Lys,WTA
+220348,Diane,Parry,R,20020901.0,FRA,170.0,Q30082774,Diane Parry,WTA
+220351,Luiza,Fullana,U,20010409.0,BRA,,,Luiza Fullana,WTA
+220361,Maria Ines,Fonte,U,20020201.0,POR,,Q61600992,Maria Ines Fonte,WTA
+220364,Sapfo,Sakellaridi,U,20030401.0,GRE,,Q105710803,Sapfo Sakellaridi,WTA
+220367,Leylah,Fernandez,L,20020906.0,CAN,168.0,Q50329570,Leylah Fernandez,WTA
+220392,Punnin,Kovapitukted,U,20030205.0,THA,,Q92048266,Punnin Kovapitukted,WTA
+220416,Moyuka,Uchijima,R,20010811.0,JPN,171.0,Q56651209,Moyuka Uchijima,WTA
+220432,Dayeon,Back,U,20020124.0,KOR,,,Dayeon Back,WTA
+220435,Anastasia,Zakharova,R,20020118.0,RUS,,Q88048339,Anastasia Zakharova,WTA
+220440,Alexa,Noel,R,20020906.0,USA,168.0,Q60325079,Alexa Noel,WTA
+220446,Jazmin,Ortenzi,R,20011120.0,ARG,,Q61630559,Jazmin Ortenzi,WTA
+220454,Yeon Woo,Ku,U,20030315.0,KOR,,,Yeon Woo Ku,WTA
+220465,Katie,Volynets,R,20011231.0,USA,,Q61889608,Katie Volynets,WTA
+220466,Joanna,Garland,R,20010716.0,TPE,,Q106293815,Joanna Garland,WTA
+220502,Ariana,Arseneault,U,20020615.0,CAN,,Q66141726,Ariana Arseneault,WTA
+220513,Antonia,Schmidt,U,20010623.0,GER,,,Antonia Schmidt,WTA
+220520,Mccartney,Kessler,R,19990708.0,USA,,,Mccartney Kessler,WTA
+220548,Peyton,Stearns,R,20011008.0,USA,,Q106293259,Peyton Stearns,WTA
+220550,Dalayna,Hewitt,R,20001216.0,USA,,Q58628856,Dalayna Hewitt,WTA
+220554,Alice,Tubello,R,20010130.0,FRA,,Q106294729,Alice Tubello,WTA
+220560,Lian,Tran,R,20020719.0,NED,,Q105159201,Lian Tran,WTA
+220572,Ruth,Copas,U,19961229.0,IRL,,,Ruth Copas,WTA
+220573,Caragh,Courtney,U,19990904.0,IRL,,,Caragh Courtney,WTA
+220589,Elina,Avanesyan,R,20020917.0,ARM,,Q106312033,Elina Avanesyan,WTA
+220597,Thasaporn,Naklo,R,20010820.0,THA,,,Thasaporn Naklo,WTA
+220613,Stephanie Judith,Visscher,U,20000125.0,NED,,Q75523907,Stephanie Judith Visscher,WTA
+220662,Veronika,Erjavec,R,19991230.0,SLO,,Q95607501,Veronika Erjavec,WTA
+220680,Fiona,Crawley,U,20020207.0,USA,,,Fiona Crawley,WTA
+220699,Julia,Riera,R,20020529.0,ARG,,Q108126658,Julia Riera,WTA
+220704,Clara,Tauson,R,20021221.0,DEN,182.0,Q42675013,Clara Tauson,WTA
+220713,Nika,Radisic,R,20000319.0,SLO,,,Nika Radisic,WTA
+220714,Elisabetta,Cocciaretto,R,20010125.0,ITA,,Q48528654,Elisabetta Cocciaretto,WTA
+220716,Oleksandra,Oliynykova,R,20010103.0,UKR,,,Oleksandra Oliynykova,WTA
+220718,Sakura,Hosogi,U,20000325.0,JPN,,,Sakura Hosogi,WTA
+220722,Elvina,Kalieva,R,20030727.0,USA,,Q108272143,Elvina Kalieva,WTA
+220732,Lexie,Stevens,R,19990608.0,NED,,Q76009938,Lexie Stevens,WTA
+220733,Carole,Monnet,L,20011201.0,FRA,,Q97368614,Carole Monnet,WTA
+220735,Tina Nadine,Smith,L,20020612.0,AUS,,,Tina Nadine Smith,WTA
+220742,Leyre,Romero Gormaz,L,20020406.0,ESP,,,Leyre Romero Gormaz,WTA
+220750,Daria,Snigur,R,20020327.0,UKR,,Q65553008,Daria Snigur,WTA
+220757,Lia,Karatancheva,U,20030908.0,BUL,,,Lia Karatancheva,WTA
+220770,Eva,Vedder,R,19991123.0,NED,,Q75522514,Eva Vedder,WTA
+220781,Carlota,Martinez Cirez,R,20010213.0,ESP,,,Carlota Martinez Cirez,WTA
+220842,Shrivalli Rashmikaa,Bhamidipaty,U,20011212.0,IND,,,Shrivalli Rashmikaa Bhamidipaty,WTA
+220844,Susan,Doldan,U,20010129.0,PAR,,,Susan Doldan,WTA
+220845,Heydi,Doldan,U,20010129.0,PAR,,,Heydi Doldan,WTA
+220946,Marie,Weckerle,U,20030504.0,LUX,,Q108577481,Marie Weckerle,WTA
+221000,Diletta,Cherubini,U,20020509.0,ITA,,,Diletta Cherubini,WTA
+221003,Clara,Vlasselaer,U,20010303.0,BEL,,,Clara Vlasselaer,WTA
+221004,Amarissa Kiara,Toth,U,20030210.0,HUN,,Q107474709,Amarissa Kiara Toth,WTA
+221012,Qinwen,Zheng,R,20021008.0,CHN,,Q62096129,Qinwen Zheng,WTA
+221014,Francesca,Curmi,R,20020707.0,MLT,,Q54807481,Francesca Curmi,WTA
+221018,Julie,Belgraver,R,20020704.0,FRA,,,Julie Belgraver,WTA
+221024,Hailey,Baptiste,R,20011103.0,USA,,Q58628835,Hailey Baptiste,WTA
+221031,Anastasia,Abbagnato,U,20031119.0,ITA,,,Anastasia Abbagnato,WTA
+221039,Elsa,Jacquemot,R,20030503.0,FRA,,Q64008826,Elsa Jacquemot,WTA
+221054,Emma,Raducanu,R,20021113.0,GBR,175.0,Q64849968,Emma Raducanu,WTA
+221073,Anastasia,Tikhonova,R,20010121.0,RUS,,,Anastasia Tikhonova,WTA
+221077,Mika,Dagan Fruchtman,R,20030512.0,ISR,,,Mika Dagan Fruchtman,WTA
+221086,Mariia,Tkacheva,R,20011217.0,RUS,,,Mariia Tkacheva,WTA
+221096,Sijia,Wei,R,20031205.0,CHN,,,Sijia Wei,WTA
+221099,Rina,Saigo,U,20001017.0,JPN,,,Rina Saigo,WTA
+221102,Setora,Normurodova,U,20020703.0,UZB,,,Setora Normurodova,WTA
+221103,Coco,Gauff,R,20040313.0,USA,175.0,Q39263365,Coco Gauff,WTA
+221105,Hx Izabella,Tan,U,19981204.0,SGP,,,Hx Izabella Tan,WTA
+221109,Boyoung,Jeong,U,20030521.0,KOR,,,Boyoung Jeong,WTA
+221124,Himeno,Sakatsume,R,20010803.0,JPN,,Q106368473,Himeno Sakatsume,WTA
+221126,Tammy,Tan,U,20010818.0,SGP,,,Tammy Tan,WTA
+221139,Ziva,Falkner,U,20020707.0,SLO,,Q107307440,Ziva Falkner,WTA
+221164,Matilde,Jorge,R,20040407.0,POR,,Q106473625,Matilde Jorge,WTA
+221173,Valentina,Ivanov,R,20010327.0,NZL,172.0,Q60291123,Valentina Ivanov,WTA
+221187,Priska Madelyn,Nugroho,R,20030529.0,INA,,Q84077585,Priska Madelyn Nugroho,WTA
+221190,Julia,Middendorf,R,20030131.0,GER,170.0,Q104870582,Julia Middendorf,WTA
+221191,Margaux,Rouvroy,R,20010322.0,FRA,,,Margaux Rouvroy,WTA
+221197,Lucia,Llinares Domingo,R,20030502.0,ESP,,,Lucia Llinares Domingo,WTA
+221219,Lucie,Petruzelova,U,20020830.0,CZE,,,Lucie Petruzelova,WTA
+221222,Venla,Ahti,U,20001215.0,FIN,,,Venla Ahti,WTA
+221235,Maria Gabriela,Rivera Corado,R,20011222.0,GUA,,Q48322110,Maria Gabriela Rivera Corado,WTA
+221236,Polina,Kudermetova,R,20030604.0,UZB,,Q105967693,Polina Kudermetova,WTA
+221237,Maria,Timofeeva,R,20031118.0,UZB,,Q106367605,Maria Timofeeva,WTA
+221242,Mell Elizabeth,Reasco Gonzalez,L,20020723.0,ECU,,Q66085378,Mell Elizabeth Reasco Gonzalez,WTA
+221243,Martyna,Kubka,R,20010419.0,POL,,,Martyna Kubka,WTA
+221247,Ekaterina,Makarova,R,19960215.0,RUS,,,Ekaterina Makarova,WTA
+221257,Sinja,Kraus,R,20020429.0,AUT,,Q57192958,Sinja Kraus,WTA
+221265,Ikumi,Yamazaki,U,20010824.0,JPN,,,Ikumi Yamazaki,WTA
+221289,Paulina,Franco Martinessi,U,20040617.0,PAR,,,Paulina Franco Martinessi,WTA
+221307,Darja,Vidmanova,R,20030109.0,CZE,,Q98278358,Darja Vidmanova,WTA
+221315,Beatris,Spasova,R,20020402.0,BUL,,,Beatris Spasova,WTA
+221332,Daianne,Hayashida,U,20030630.0,PER,,,Daianne Hayashida,WTA
+221333,Solana,Sierra,R,20040617.0,ARG,,,Solana Sierra,WTA
+221354,Lisa,Pigato,R,20030621.0,ITA,,Q60732040,Lisa Pigato,WTA
+221362,Hiromi,Abe,U,20000502.0,JPN,,,Hiromi Abe,WTA
+221364,Denislava,Glushkova,U,20040108.0,BUL,,,Denislava Glushkova,WTA
+221369,Lisa,Zaar,U,20000430.0,SWE,,,Lisa Zaar,WTA
+221395,Ekaterina,Reyngold,R,20010407.0,RUS,,,Ekaterina Reyngold,WTA
+221406,Alina,Charaeva,R,20020527.0,RUS,,Q71126317,Alina Charaeva,WTA
+221407,Oksana,Selekhmeteva,L,20030113.0,RUS,,Q67200158,Oksana Selekhmeteva,WTA
+221411,Jennifer,Ruggeri,R,20030723.0,ITA,,,Jennifer Ruggeri,WTA
+221434,Aliona,Falei,U,20040329.0,BLR,,,Aliona Falei,WTA
+221454,Alba,Rey Garcia,U,20020629.0,ESP,,,Alba Rey Garcia,WTA
+221469,Beatrice,Ricci,U,20030707.0,ITA,,,Beatrice Ricci,WTA
+221473,Merna,Refaat,U,20040816.0,EGY,,,Merna Refaat,WTA
+221486,Amandine,Monnot,U,20020206.0,FRA,,Q106272062,Amandine Monnot,WTA
+221497,Andre,Lukosiute,U,20010623.0,LTU,,,Andre Lukosiute,WTA
+221501,Antonia,Samudio,R,20010327.0,COL,,Q106388356,Antonia Samudio,WTA
+221512,Katrina,Scott,R,20040611.0,USA,180.0,Q66494826,Katrina Scott,WTA
+221626,Linda,Klimovicova,R,20040618.0,CZE,,Q107494252,Linda Klimovicova,WTA
+221746,Oceane,Babel,U,20040226.0,FRA,,Q106923149,Oceane Babel,WTA
+221768,Nastasja,Schunk,U,20030817.0,GER,,Q104777672,Nastasja Schunk,WTA
+221823,Mahin,Qureshi,U,20011109.0,PAK,,,Mahin Qureshi,WTA
+221834,Dana,Guzman,U,20030322.0,PER,,,Dana Guzman,WTA
+221836,Camila,Soares,U,20030322.0,PER,,,Camila Soares,WTA
+221883,Talia,Gibson,R,20040618.0,AUS,,,Talia Gibson,WTA
+221885,Fangran,Tian,R,20030810.0,CHN,,,Fangran Tian,WTA
+221905,Robin,Montgomery,L,20040905.0,USA,,Q66309318,Robin Montgomery,WTA
+221909,Ashlyn,Krueger,R,20040507.0,USA,185.0,Q105825572,Ashlyn Krueger,WTA
+221911,Selena,Janicijevic,R,20020723.0,FRA,183.0,Q63999839,Selena Janicijevic,WTA
+221945,Amelia,Rajecki,R,20020603.0,GBR,,,Amelia Rajecki,WTA
+221985,Darja,Semenistaja,L,20020916.0,LAT,,Q106807023,Darja Semenistaja,WTA
+221994,Demi,Tran,R,20001126.0,NED,,,Demi Tran,WTA
+221996,Isabella,Kruger,R,20050330.0,RSA,,,Isabella Kruger,WTA
+222000,Maria Camila,Torres Murcia,L,20021110.0,COL,,,Maria Camila Torres Murcia,WTA
+222017,Anouk,Koevermans,R,20040102.0,NED,,,Anouk Koevermans,WTA
+222019,Nino,Natsvlishvili,U,20030106.0,GEO,,,Nino Natsvlishvili,WTA
+222045,Antonia,Ruzic,R,20030120.0,CRO,,Q84599634,Antonia Ruzic,WTA
+222080,Hina,Inoue,R,20030601.0,USA,,,Hina Inoue,WTA
+222081,Eleana,Yu,R,20041108.0,USA,,Q108271567,Eleana Yu,WTA
+222137,Dimitra,Pavlou,R,20040421.0,GRE,,,Dimitra Pavlou,WTA
+222145,Janice,Tjen,R,20020506.0,INA,,,Janice Tjen,WTA
+222171,Nahia,Berecoechea,R,20040423.0,FRA,,,Nahia Berecoechea,WTA
+222189,Anna Sinclair,Rogers,U,19980321.0,USA,,,Anna Sinclair Rogers,WTA
+222233,Marina,Stakusic,R,20041127.0,CAN,,,Marina Stakusic,WTA
+222258,Linda,Fruhvirtova,R,20050501.0,CZE,,Q95568176,Linda Fruhvirtova,WTA
+222259,Natalia,Szabanin,L,20031011.0,HUN,,Q107043170,Natalia Szabanin,WTA
+222276,Jasmijn,Gimbrere,R,20010306.0,NED,,,Jasmijn Gimbrere,WTA
+222290,Lanlana,Tararudee,R,20040707.0,THA,,,Lanlana Tararudee,WTA
+222294,Darja,Suvirdjonkova,R,20050616.0,SRB,,,Darja Suvirdjonkova,WTA
+222296,Zhuoxuan,Bai,R,20021116.0,CHN,,,Zhuoxuan Bai,WTA
+222299,Adriana,Reami,R,19971113.0,USA,,,Adriana Reami,WTA
+222305,Romina,Ccuno,R,20020901.0,PER,,Q84484150,Romina Ccuno,WTA
+222318,Elena,Giessler,R,20021221.0,GER,,,Elena Giessler,WTA
+222328,Linda,Noskova,R,20041117.0,CZE,,Q106354932,Linda Noskova,WTA
+222346,Laia,Petretic,U,20040407.0,FRA,,,Laia Petretic,WTA
+222369,Arianna,Zucchini,R,20030710.0,ITA,,,Arianna Zucchini,WTA
+222390,Ya Yi,Yang,L,20040530.0,TPE,,Q87062727,Ya Yi Yang,WTA
+222391,Lois,Boisson,R,20030516.0,FRA,,Q105725822,Lois Boisson,WTA
+222396,Matilde,Paoletti,R,20030304.0,ITA,,Q106844167,Matilde Paoletti,WTA
+222427,Stella,Remander,U,,FIN,,,Stella Remander,WTA
+222458,Pia,Lovric,R,20020423.0,SLO,,Q84560680,Pia Lovric,WTA
+222481,Elena,Korokozidi,R,20030627.0,GRE,,,Elena Korokozidi,WTA
+222506,Anastasiya,Soboleva,U,20040423.0,UKR,,Q107661235,Anastasiya Soboleva,WTA
+222507,Tamari,Gagoshidze,U,20031024.0,GEO,,,Tamari Gagoshidze,WTA
+222513,Leyla Fiorella,Britez Risso,U,,PAR,,,Leyla Fiorella Britez Risso,WTA
+222559,Han,Shi,R,20050530.0,CHN,,,Han Shi,WTA
+222601,Jessica,Bouzas Maneiro,R,20020924.0,ESP,,Q96069911,Jessica Bouzas Maneiro,WTA
+222602,Nina,Radovanovic,U,20031022.0,FRA,,,Nina Radovanovic,WTA
+222661,Sonay,Kartal,R,20011028.0,GBR,,,Sonay Kartal,WTA
+222667,Monique,Barry,L,20020621.0,NZL,,,Monique Barry,WTA
+222675,Amarni,Banks,R,20021008.0,GBR,,,Amarni Banks,WTA
+222776,Paloma,Goldsmith Weinreich,U,,CHI,,,Paloma Goldsmith Weinreich,WTA
+222837,Malaika,Rapolu,U,20030418.0,USA,,,Malaika Rapolu,WTA
+222866,Katherine,Hui,R,20050129.0,USA,,,Katherine Hui,WTA
+222878,Melisa,Ercan,U,20050901.0,TUR,,,Melisa Ercan,WTA
+222891,Maria,Martinez Vaquero,U,20020209.0,ESP,,,Maria Martinez Vaquero,WTA
+222919,Julia,Avdeeva,R,20020706.0,RUS,,,Julia Avdeeva,WTA
+222965,Erika,Andreeva,R,20040624.0,RUS,,Q103905654,Erika Andreeva,WTA
+222966,Dominika,Salkova,R,20040628.0,CZE,,,Dominika Salkova,WTA
+222980,Lucie,Havlickova,R,20050313.0,CZE,,Q107492754,Lucie Havlickova,WTA
+223005,Anchisa,Chanta,L,20020912.0,THA,,Q84350432,Anchisa Chanta,WTA
+223087,Tara,Wurth,R,20020930.0,CRO,,Q86052265,Tara Wurth,WTA
+223120,Briana,Szabo,U,20051126.0,ROU,,Q107759548,Briana Szabo,WTA
+223129,Michaela,Laki,U,20050324.0,GRE,,,Michaela Laki,WTA
+223130,Bolor,Enkhbayar,U,19971018.0,MGL,,,Bolor Enkhbayar,WTA
+223131,Erdenesuren,Erdenebat,U,19940320.0,MGL,,,Erdenesuren Erdenebat,WTA
+223132,Jargal,Altansarnai,U,19940312.0,MGL,,,Jargal Altansarnai,WTA
+223133,Katrina,Lai,U,19960106.0,GUM,,,Katrina Lai,WTA
+223134,Nadine,Del Carmen,U,19981110.0,GUM,,,Nadine Del Carmen,WTA
+223135,Shaira Hope,Rivera,U,19990629.0,PHI,,,Shaira Hope Rivera,WTA
+223136,Rozhan,Karajayeva,U,20051009.0,TKM,,,Rozhan Karajayeva,WTA
+223137,Arzuv,Klycheva,U,19990526.0,TKM,,,Arzuv Klycheva,WTA
+223138,Bahar,Toymyradova,U,20030423.0,TKM,,,Bahar Toymyradova,WTA
+223140,Shinejargal,Battur,U,19991214.0,MGL,,,Shinejargal Battur,WTA
+223146,Isabella,Barrera Aguirre,U,20030307.0,USA,,,Isabella Barrera Aguirre,WTA
+223159,Vivian,Yang,U,20050111.0,NZL,,,Vivian Yang,WTA
+223168,Mary,Stoiana,U,20030506.0,USA,,,Mary Stoiana,WTA
+223194,Taylah,Preston,R,20051027.0,AUS,,,Taylah Preston,WTA
+223253,Alexandra,Eala,L,20050523.0,PHI,173.0,Q67088022,Alexandra Eala,WTA
+223286,Victoria,Jimenez Kasintseva,L,20050809.0,AND,,Q67372349,Victoria Jimenez Kasintseva,WTA
+223308,Ela Nala,Milic,U,20060101.0,SLO,,Q108550716,Ela Nala Milic,WTA
+223321,Sofia,Costoulas,U,20050402.0,BEL,,Q107762927,Sofia Costoulas,WTA
+223323,Barbora,Palicova,R,20040311.0,CZE,,Q106538774,Barbora Palicova,WTA
+223325,Polina,Iatcenko,U,20031210.0,RUS,,,Polina Iatcenko,WTA
+223326,Raquel,Gonzalez Vilar,U,20040405.0,ESP,,,Raquel Gonzalez Vilar,WTA
+223331,Anca Alexia,Todoni,R,20041010.0,ROU,,,Anca Alexia Todoni,WTA
+223333,Noma,Noha Akugue,L,20031202.0,GER,170.0,Q104156880,Noma Noha Akugue,WTA
+223335,Cadence,Brace,R,20050225.0,CAN,,,Cadence Brace,WTA
+223336,Weronika,Baszak,R,20020921.0,POL,,Q83965768,Weronika Baszak,WTA
+223352,Darya,Velikova,U,20040819.0,BUL,,,Darya Velikova,WTA
+223360,Nikola,Bartunkova,R,20060225.0,CZE,,Q106522281,Nikola Bartunkova,WTA
+223371,Celine,Simunyu,U,20040723.0,IRL,,,Celine Simunyu,WTA
+223397,Klaudija,Bubelyte,U,20030329.0,LTU,,,Klaudija Bubelyte,WTA
+223410,Georgia,Pedone,R,20040831.0,ITA,,,Georgia Pedone,WTA
+223415,Federica,Urgesi,U,20050129.0,ITA,,,Federica Urgesi,WTA
+223670,Diana,Shnaider,L,20040402.0,RUS,,Q107183075,Diana Shnaider,WTA
+223671,Aya,El Aouni,U,20050706.0,MAR,,,Aya El Aouni,WTA
+224485,Lucia,Peyre,U,20050726.0,ARG,,,Lucia Peyre,WTA
+225854,Carmen,Lopez Martinez,U,20050423.0,ESP,,,Carmen Lopez Martinez,WTA
+225858,Sarah,Iliev,U,20061003.0,FRA,,,Sarah Iliev,WTA
+228909,Amelie,Van Impe,R,20040719.0,BEL,,,Amelie Van Impe,WTA
+228910,Tilwith,Di Girolami,R,20030929.0,BEL,,,Tilwith Di Girolami,WTA
+230870,Ella,Seidel,R,20050214.0,GER,,,Ella Seidel,WTA
+230880,Mara,Guth,R,20030624.0,GER,,Q107281421,Mara Guth,WTA
+230882,Carolina,Kuhl,U,20050404.0,GER,,,Carolina Kuhl,WTA
+231625,Noemi,Basiletti,U,20060311.0,ITA,,,Noemi Basiletti,WTA
+231639,Ariana,Geerlings,U,20050901.0,ESP,,,Ariana Geerlings,WTA
+232447,Celine,Naef,R,20050625.0,SUI,,,Celine Naef,WTA
+232881,Cristina,Diaz Adrover,U,20051203.0,ESP,,,Cristina Diaz Adrover,WTA
+233717,Suzanie,Pretorius,U,20040522.0,RSA,,,Suzanie Pretorius,WTA
+233728,Marilouise,Van Zyl,U,20060425.0,RSA,,,Marilouise Van Zyl,WTA
+233741,Maya,Joint,R,20060416.0,AUS,,,Maya Joint,WTA
+233742,Yaroslava,Bartashevich,U,20050329.0,FRA,,,Yaroslava Bartashevich,WTA
+234222,Liv,Hovde,U,20051025.0,USA,,,Liv Hovde,WTA
+235159,Astrid,Lew Yan Foon,U,20050815.0,FRA,,,Astrid Lew Yan Foon,WTA
+236955,Tatiana,Prozorova,U,20031010.0,RUS,,,Tatiana Prozorova,WTA
+236956,Yasmine,Kabbaj,U,20040115.0,MAR,,,Yasmine Kabbaj,WTA
+236957,Lola,Radivojevic,U,20050102.0,SRB,,Q106861566,Lola Radivojevic,WTA
+236958,Julia,Caffarena,U,20060204.0,ARG,,,Julia Caffarena,WTA
+236972,Luisina,Giovannini,U,20061108.0,ARG,,,Luisina Giovannini,WTA
+238064,Clervie,Ngounoue,R,20060719.0,USA,,,Clervie Ngounoue,WTA
+238065,Noelia,Zeballos Melgar,U,19940502.0,BOL,,Q27049217,Noelia Zeballos Melgar,WTA
+238075,Petra,Marcinko,U,20051204.0,CRO,,,Petra Marcinko,WTA
+238179,Tania Isabel,Andrade Sabando,U,20051024.0,ECU,,,Tania Isabel Andrade Sabando,WTA
+238181,Valeska Alexandra,San Martin Ramirez,U,20051110.0,ECU,,,Valeska Alexandra San Martin Ramirez,WTA
+238184,Tereza,Valentova,U,20070220.0,CZE,,,Tereza Valentova,WTA
+238205,Mika,Buchnik,U,20070312.0,ISR,,,Mika Buchnik,WTA
+239156,Lucija,Ciric Bagaric,R,20040109.0,CRO,,,Lucija Ciric Bagaric,WTA
+239160,Arina,Arifullina,U,20060122.0,RUS,,,Arina Arifullina,WTA
+239383,Sara,Bejlek,L,20060131.0,CZE,,,Sara Bejlek,WTA
+239387,Patricija,Paukstyte,U,20040913.0,LTU,,,Patricija Paukstyte,WTA
+239389,Elena,Pridankina,R,20050830.0,RUS,,,Elena Pridankina,WTA
+239392,Mia,Ristic,U,20060517.0,SRB,,,Mia Ristic,WTA
+239397,Elena,Micic,U,20040713.0,AUS,,,Elena Micic,WTA
+239436,Kayla,Cross,L,20050321.0,CAN,,Q107986298,Kayla Cross,WTA
+239456,Tiantsoa Sarah,Rakotomanga Rajaonah,L,20051215.0,FRA,,,Tiantsoa Sarah Rakotomanga Rajaonah,WTA
+239475,Victoria,Mboko,R,20060826.0,CAN,,,Victoria Mboko,WTA
+241714,Rebecca,Munk Mortensen,U,20051101.0,DEN,,,Rebecca Munk Mortensen,WTA
+241717,Johanne Christine,Svendsen,R,20040515.0,DEN,,Q108118334,Johanne Christine Svendsen,WTA
+241735,Sarafina,Hansen,U,20050607.0,DEN,,,Sarafina Hansen,WTA
+243420,Hanne,Vandewinkel,U,20040521.0,BEL,,,Hanne Vandewinkel,WTA
+244079,Anna Lena,Ebster,U,20040106.0,AUT,,,Anna Lena Ebster,WTA
+244087,Anja,Stankovic,U,20050613.0,SRB,,,Anja Stankovic,WTA
+245077,Yelyzaveta,Kotliar,U,20070201.0,UKR,,,Yelyzaveta Kotliar,WTA
+246476,Mariana Isabel,Higuita Barraza,U,20070614.0,COL,,,Mariana Isabel Higuita Barraza,WTA
+246481,Sahaja,Yamalapalli,U,20001029.0,IND,,,Sahaja Yamalapalli,WTA
+246493,Elena Ruxandra,Bertea,U,20060506.0,ROU,,,Elena Ruxandra Bertea,WTA
+247647,Jenny,Lim,U,20050117.0,FRA,,,Jenny Lim,WTA
+247669,Veronika,Podrez,U,20070111.0,UKR,,,Veronika Podrez,WTA
+248660,Lya,Fernandez,U,20070724.0,MEX,,,Lya Fernandez,WTA
+252488,Ana,Candiotto,U,20040419.0,BRA,,,Ana Candiotto,WTA
+252495,Lucciana,Perez Alarcon,U,20050508.0,PER,,,Lucciana Perez Alarcon,WTA
+252499,Alina,Korneeva,U,20070623.0,RUS,,,Alina Korneeva,WTA
+252571,Anna,Petkovic,U,20050602.0,GER,,,Anna Petkovic,WTA
+252587,Xinxin,Yao,L,20031020.0,CHN,,,Xinxin Yao,WTA
+254733,Antonia,Vergara Rivera,U,20061124.0,CHI,,,Antonia Vergara Rivera,WTA
+256684,Aoi,Ito,U,20040521.0,JPN,,,Aoi Ito,WTA
+256705,Samira,De Stefano,L,20040506.0,ITA,,,Samira De Stefano,WTA
+259104,Brenda,Fruhvirtova,R,20070402.0,CZE,,,Brenda Fruhvirtova,WTA
+259685,Mingge,Xu,R,20071002.0,GBR,,,Mingge Xu,WTA
+259689,Vesa,Gjinaj,U,20041202.0,UNK,,,Vesa Gjinaj,WTA
+259733,Kaitlin,Quevedo,R,20060213.0,ESP,,,Kaitlin Quevedo,WTA
+259753,Malak,El Allami,U,20060728.0,MAR,,,Malak El Allami,WTA
+259758,Anouck,Vrancken Peeters,U,20030213.0,NED,,,Anouck Vrancken Peeters,WTA
+259799,Mirra,Andreeva,R,20070429.0,RUS,,,Mirra Andreeva,WTA
+259849,Yoana,Konstantinova,U,20070601.0,BUL,,,Yoana Konstantinova,WTA
+259857,Akasha,Urhobo,R,20070119.0,USA,,,Akasha Urhobo,WTA
+259883,Wakana,Sonobe,L,20080117.0,JPN,,,Wakana Sonobe,WTA
+259913,Rositsa,Dencheva,,20070310.0,BUL,,,Rositsa Dencheva,WTA
+259914,Lara,Smejkal,,20040807.0,SLO,,,Lara Smejkal,WTA
+259965,Wozuko,Mdlulwa,U,20070816.0,RSA,,,Wozuko Mdlulwa,WTA
+259967,Sayaka,Ishii,U,20050831.0,JPN,,,Sayaka Ishii,WTA
+260006,Kristiana,Sidorova,U,20060530.0,RUS,,,Kristiana Sidorova,WTA
+260101,Alyssa,Ahn,U,20061227.0,USA,,,Alyssa Ahn,WTA
+260170,Sara,Saito,R,20061003.0,JPN,,,Sara Saito,WTA
+260172,Lilli,Tagger,U,20080217.0,AUT,,,Lilli Tagger,WTA
+260203,Vendula,Valdmannova,U,20071210.0,CZE,,,Vendula Valdmannova,WTA
+260277,Suana,Tucakovic,U,20041025.0,BIH,,,Suana Tucakovic,WTA
+260296,Valentina,Steiner,U,20060719.0,GER,,,Valentina Steiner,WTA
+260300,Iva,Jovic,R,20071206.0,USA,,,Iva Jovic,WTA
+260306,Sonja,Zhiyenbayeva,R,20060702.0,GER,,,Sonja Zhiyenbayeva,WTA
+260337,Candela,Yecora,U,,ESP,,,Candela Yecora,WTA
+260339,Beatrise,Zeltina,R,20070318.0,LAT,,,Beatrise Zeltina,WTA
+260445,Jana,Otzipka,R,20050201.0,BEL,,,Jana Otzipka,WTA
+260503,Lola,Giza,U,,GER,,,Lola Giza,WTA
+260510,Vittoria,Paganetti,R,20060617.0,ITA,,,Vittoria Paganetti,WTA
+260541,Weronika,Ewald,R,20060220.0,POL,,,Weronika Ewald,WTA
+260565,Lidia,Encheva,U,20060730.0,BUL,,,Lidia Encheva,WTA
+260580,Valerie,Glozman,R,20061122.0,USA,,,Valerie Glozman,WTA
+260581,Alevtina,Ibragimova,R,20050119.0,RUS,,,Alevtina Ibragimova,WTA
+260598,Tessa Johanna,Brockmann,R,20051121.0,GER,,,Tessa Johanna Brockmann,WTA
+260647,Sarah,Van Emst,R,20041106.0,NED,,,Sarah Van Emst,WTA
+260664,Elizara,Yaneva,R,20070321.0,BUL,,,Elizara Yaneva,WTA
+260672,Johanne Christine,Svendsen,R,20040515.0,DEN,,,Johanne Christine Svendsen,WTA
+260761,Renata,Jamrichova,U,20070620.0,SVK,,,Renata Jamrichova,WTA
+260765,Alisa,Oktiabreva,R,20080726.0,RUS,,,Alisa Oktiabreva,WTA
+260847,Julia,Stusek,R,20080623.0,GER,,,Julia Stusek,WTA
+260848,Valentina,Mediorreal Arias,R,20070302.0,COL,,,Valentina Mediorreal Arias,WTA
+260860,Lorena,Solar Donoso,R,20070607.0,ESP,,,Lorena Solar Donoso,WTA
+260913,Yufei,Ren,R,20060411.0,CHN,,,Yufei Ren,WTA
+260921,Menuha,Popovici,U,,ROU,,,Menuha Popovici,WTA
+261038,Vaishnavi,Adkar,R,20041214.0,IND,,,Vaishnavi Adkar,WTA
+261963,Mika,Stojsavljevic,R,20081215.0,GBR,,,Mika Stojsavljevic,WTA
+261972,Tyra Caterina,Grant,R,20080312.0,ITA,,,Tyra Caterina Grant,WTA
+263644,Emerson,Jones,R,20080707.0,AUS,,,Emerson Jones,WTA
+263775,Maria Jose,Sanchez Uribe,U,,COL,,,Maria Jose Sanchez Uribe,WTA
+263847,Catalina,Padilla Udaeta,U,20051110.0,BOL,,,Catalina Padilla Udaeta,WTA
+263848,Ana Fabia,Holweg Bustillos,U,20041115.0,BOL,,,Ana Fabia Holweg Bustillos,WTA
+263849,Natalia,Trigosso,U,20060809.0,BOL,,,Natalia Trigosso,WTA
+263850,Sabrina,Olimjanova,U,20060720.0,UZB,,,Sabrina Olimjanova,WTA
+263852,Ominahon,Valihanova,U,20040604.0,UZB,,,Ominahon Valihanova,WTA
+263853,Adelina,Lachinova,U,20080210.0,LAT,,,Adelina Lachinova,WTA
+263857,Yuliia,Starodubtseva,R,20000217.0,UKR,,,Yuliia Starodubtseva,WTA
+263858,Celia,Anson Sanchez,U,,ESP,,,Celia Anson Sanchez,WTA
+263869,Ruien,Zhang,U,20080427.0,CHN,,,Ruien Zhang,WTA
+263872,Hannah,Klugman,R,20090218.0,GBR,,,Hannah Klugman,WTA
+264064,Chenting,Zhu,U,20070913.0,CHN,,,Chenting Zhu,WTA
+264075,Julieta,Pareja,R,20090218.0,USA,,,Julieta Pareja,WTA
+264205,Yuhan,Wang,U,20070621.0,CHN,,,Yuhan Wang,WTA
+264227,Isis Louise,Van Den Broek,R,20051228.0,NED,,,Isis Louise Van Den Broek,WTA
+264505,Alexandra Irina,Anghel,U,20070312.0,ROU,,,Alexandra Irina Anghel,WTA
+265210,Ana,Mitevska,U,,MKD,,,Ana Mitevska,WTA
+266376,Mia,Pohankova,R,20081021.0,SVK,,,Mia Pohankova,WTA
+266469,Ksenia,Efremova,R,20090428.0,FRA,,,Ksenia Efremova,WTA
+266531,Tiantsoa Sarah,Rakotomanga Rajaonah,U,,FRA,,,Tiantsoa Sarah Rakotomanga Rajaonah,WTA
+266622,Eva,Bennemann,U,20071005.0,GER,,,Eva Bennemann,WTA
+266671,Laura,Samson,R,20080310.0,CZE,,,Laura Samson,WTA
+266722,Maaya,Rajeshwaran Revathi,R,20090612.0,IND,175.0,,Maaya Rajeshwaran Revathi,WTA
+266800,Alena,Kovackova,R,20080613.0,CZE,,,Alena Kovackova,WTA
+267022,Felitsata,Dorofeeva Rybas,U,,RUS,,,Felitsata Dorofeeva Rybas,WTA
+267382,Nauhany Vitoria,Leme Da Silva,R,20100313.0,BRA,,,Nauhany Vitoria Leme Da Silva,WTA
+267428,Giulia Safina,Popa,L,20091109.0,ROU,,,Giulia Safina Popa,WTA
+267439,Teodora,Kostovic,R,20070628.0,SRB,,,Teodora Kostovic,WTA
+269259,Victoria Luiza,Barros,U,,BRA,,,Victoria Luiza Barros,WTA
+269682,Andzhelina,Kostova,U,,BUL,,,Andzhelina Kostova,WTA
+269753,Alina,Yuneva,U,20080710.0,RUS,,,Alina Yuneva,WTA
+269835,Juliana,Giaccio,U,,ESP,,,Juliana Giaccio,WTA
+270076,Ida,Wobker,U,20100908.0,GER,,,Ida Wobker,WTA
+270251,Vanesa,Vlahova,U,20080522.0,BUL,,,Vanesa Vlahova,WTA
